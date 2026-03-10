@@ -131,12 +131,16 @@ El dashboard permite analizar:
 - Porcentaje de entregas a tiempo
 - Rutas con mayor impacto operativo
 
-Vista previa del dashboard:
 
-![Dashboard](images/dashboard_preview.png)
-
----
 
 # Archivos del Proyecto
 
 El repositorio contiene los siguientes recursos:
+-Dataset:
+  - 01_customers.csv
+  - 02_drivers.csv
+  - 03_shipments_dirty.csv (tabla a limpiar)
+-Análisis Retail & Ventas.ppbix
+-Script limpieza end-to-end.sql
+-Script_analisis.sql
+   
