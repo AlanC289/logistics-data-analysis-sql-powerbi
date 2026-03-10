@@ -1,0 +1,901 @@
+customer_id,company_name,industry,city,state,country,contract_tier,contract_start_date
+C00001,Industrias Express SAPI,Alimentos,Querétaro,QRO,MX,Estándar,2023-02-21
+C00002,Logística Azteca SA de CV,Manufactura,Morelia,MICH,MX,Básico,2023-06-28
+C00003,Distribuidora Global SAS,Farmacéutica,Villahermosa,TAB,MX,Estándar,2023-02-24
+C00004,Comercializadora Pacífico SRL,E-commerce,Toluca,MEX,MX,Básico,2023-01-14
+C00005,Transportes Pacífico SA de CV,Automotriz,Aguascalientes,AGS,MX,Premium,2023-07-29
+C00006,Almacenes Global SA de CV,Construcción,Toluca,MEX,MX,Básico,2023-03-30
+C00007,Distribuidora Del Norte SA de CV,Farmacéutica,San Luis Potosí,SLP,MX,Estándar,2025-01-10
+C00008,Transportes Pacífico SRL,Electrónica,Monterrey,NL,MX,Estándar,2024-04-21
+C00009,Servicios Oriente SAPI,E-commerce,Veracruz,VER,MX,Estándar,2023-11-30
+C00010,Distribuidora Integral SAS,Construcción,Monterrey,NL,MX,Básico,2023-12-17
+C00011,Servicios Azteca SAPI,Retail,Morelia,MICH,MX,Premium,2024-03-25
+C00012,Transportes Express SRL,Farmacéutica,Chihuahua,CHH,MX,Estándar,2024-07-02
+C00013,Comercializadora Sigma SAPI,Farmacéutica,Chihuahua,CHH,MX,Estándar,2025-07-28
+C00014,Logística Fénix SAS,Automotriz,Morelia,MICH,MX,Básico,2024-06-22
+C00015,Almacenes Del Norte SA de CV,Manufactura,Puebla,PUE,MX,Básico,2025-11-09
+C00016,Transportes Pacífico SAS,Electrónica,León,GTO,MX,Estándar,2025-05-14
+C00017,Transportes Global SRL,Automotriz,Morelia,MICH,MX,Básico,2023-01-24
+C00018,Almacenes Azteca SRL,Alimentos,Hermosillo,SON,MX,Estándar,2023-11-20
+C00019,Distribuidora Integral SRL,Alimentos,Querétaro,QRO,MX,Estándar,2024-09-03
+C00020,Servicios Centro SA de CV,Manufactura,Villahermosa,TAB,MX,Premium,2023-01-02
+C00021,Grupo Express SA de CV,Manufactura,San Luis Potosí,SLP,MX,Estándar,2024-05-05
+C00022,Comercializadora Integral SAS,Alimentos,Monterrey,NL,MX,Básico,2025-12-26
+C00023,Distribuidora Sigma SAS,Automotriz,Hermosillo,SON,MX,Estándar,2024-03-09
+C00024,Transportes Express SAPI,Manufactura,Villahermosa,TAB,MX,Básico,2025-07-13
+C00025,Distribuidora Azteca SA de CV,Retail,Culiacán,SIN,MX,Básico,2024-04-16
+C00026,Transportes Global SAPI,E-commerce,Guadalajara,JAL,MX,Estándar,2024-11-07
+C00027,Comercializadora Fénix SAS,Farmacéutica,Tijuana,BCN,MX,Estándar,2026-01-09
+C00028,Transportes Del Norte SAS,Automotriz,Hermosillo,SON,MX,Estándar,2024-01-25
+C00029,Transportes Azteca SAS,Automotriz,Cancún,ROO,MX,Premium,2023-04-21
+C00030,Distribuidora Express SAS,Alimentos,Querétaro,QRO,MX,Estándar,2024-05-24
+C00031,Distribuidora Del Norte SAS,Manufactura,Toluca,MEX,MX,Básico,2025-08-05
+C00032,Transportes Express SAPI,Construcción,Morelia,MICH,MX,Estándar,2023-01-31
+C00033,Grupo Integral SAS,Retail,Tijuana,BCN,MX,Premium,2025-04-01
+C00034,Industrias Pacífico SAS,Alimentos,Toluca,MEX,MX,Básico,2025-07-20
+C00035,Grupo Oriente SA de CV,Retail,Tijuana,BCN,MX,Estándar,2023-04-30
+C00036,Comercializadora Azteca SA de CV,Alimentos,Villahermosa,TAB,MX,Básico,2025-12-23
+C00037,Logística Del Norte SAPI,Retail,Monterrey,NL,MX,Estándar,2024-04-26
+C00038,Servicios Sigma SAPI,Automotriz,Hermosillo,SON,MX,Básico,2025-12-06
+C00039,Industrias Centro SRL,Manufactura,Chihuahua,CHH,MX,Básico,2023-09-26
+C00040,Transportes Global SAPI,E-commerce,Culiacán,SIN,MX,Básico,2023-07-24
+C00041,Distribuidora Oriente SRL,Alimentos,Veracruz,VER,MX,Estándar,2023-05-21
+C00042,Grupo Global SRL,Manufactura,Morelia,MICH,MX,Premium,2024-09-11
+C00043,Transportes Del Norte SAPI,E-commerce,Puebla,PUE,MX,Básico,2024-06-25
+C00044,Distribuidora Sigma SAS,E-commerce,Tijuana,BCN,MX,Premium,2024-12-03
+C00045,Logística Sigma SA de CV,Retail,Guadalajara,JAL,MX,Básico,2023-07-09
+C00046,Comercializadora Centro SAS,Retail,Puebla,PUE,MX,Básico,2024-06-20
+C00047,Grupo Oriente SAPI,Construcción,Puebla,PUE,MX,Básico,2026-01-22
+C00048,Grupo Oriente SAPI,Farmacéutica,San Luis Potosí,SLP,MX,Estándar,2025-01-16
+C00049,Comercializadora Express SAPI,Alimentos,Veracruz,VER,MX,Premium,2025-04-12
+C00050,Servicios Pacífico SAPI,E-commerce,CDMX,CDMX,MX,Básico,2024-01-03
+C00051,Grupo Centro SAPI,Farmacéutica,Querétaro,QRO,MX,Premium,2025-02-22
+C00052,Industrias Express SAPI,Retail,Cancún,ROO,MX,Estándar,2024-12-17
+C00053,Industrias Del Norte SRL,Automotriz,Chihuahua,CHH,MX,Estándar,2024-11-03
+C00054,Servicios Azteca SA de CV,E-commerce,Chihuahua,CHH,MX,Básico,2026-01-03
+C00055,Transportes Fénix SAS,Automotriz,Toluca,MEX,MX,Estándar,2023-03-20
+C00056,Transportes Pacífico SAPI,E-commerce,Aguascalientes,AGS,MX,Básico,2025-06-12
+C00057,Distribuidora Oriente SAS,Manufactura,Hermosillo,SON,MX,Premium,2023-01-04
+C00058,Transportes Sigma SRL,Construcción,Aguascalientes,AGS,MX,Básico,2024-10-04
+C00059,Distribuidora Pacífico SAS,Alimentos,San Luis Potosí,SLP,MX,Estándar,2023-09-18
+C00060,Grupo Sigma SRL,Farmacéutica,San Luis Potosí,SLP,MX,Estándar,2025-04-11
+C00061,Almacenes Centro SAS,Farmacéutica,Culiacán,SIN,MX,Estándar,2024-10-21
+C00062,Industrias Global SRL,Manufactura,León,GTO,MX,Premium,2023-06-23
+C00063,Distribuidora Express SAPI,Retail,Mérida,YUC,MX,Básico,2024-09-27
+C00064,Almacenes Pacífico SAPI,Construcción,Tampico,TAM,MX,Estándar,2023-05-30
+C00065,Grupo Del Norte SAS,Farmacéutica,Mérida,YUC,MX,Básico,2023-10-30
+C00066,Grupo Global SAPI,Manufactura,Villahermosa,TAB,MX,Estándar,2025-08-09
+C00067,Servicios Centro SAS,Electrónica,Cancún,ROO,MX,Premium,2025-12-23
+C00068,Industrias Express SRL,Electrónica,Tampico,TAM,MX,Estándar,2025-07-10
+C00069,Transportes Sigma SAPI,E-commerce,Toluca,MEX,MX,Básico,2025-06-19
+C00070,Comercializadora Integral SAPI,Construcción,Morelia,MICH,MX,Estándar,2023-06-15
+C00071,Logística Pacífico SRL,Electrónica,Tijuana,BCN,MX,Estándar,2023-05-12
+C00072,Logística Fénix SA de CV,Construcción,Tijuana,BCN,MX,Estándar,2025-05-10
+C00073,Logística Pacífico SAPI,Electrónica,Veracruz,VER,MX,Básico,2024-09-03
+C00074,Grupo Pacífico SRL,Construcción,Hermosillo,SON,MX,Estándar,2025-09-21
+C00075,Grupo Pacífico SA de CV,Manufactura,Cancún,ROO,MX,Estándar,2023-09-19
+C00076,Comercializadora Azteca SRL,Construcción,Puebla,PUE,MX,Básico,2025-08-03
+C00077,Servicios Pacífico SRL,Construcción,Cancún,ROO,MX,Básico,2024-10-31
+C00078,Grupo Global SA de CV,Automotriz,Monterrey,NL,MX,Básico,2025-08-21
+C00079,Grupo Express SAPI,Retail,Monterrey,NL,MX,Estándar,2023-03-24
+C00080,Almacenes Del Norte SAPI,Electrónica,Mérida,YUC,MX,Estándar,2023-09-16
+C00081,Transportes Integral SRL,Manufactura,Veracruz,VER,MX,Estándar,2023-12-10
+C00082,Logística Express SA de CV,Farmacéutica,San Luis Potosí,SLP,MX,Básico,2025-02-07
+C00083,Grupo Oriente SAS,Automotriz,San Luis Potosí,SLP,MX,Básico,2023-09-05
+C00084,Logística Centro SA de CV,Construcción,Aguascalientes,AGS,MX,Premium,2023-01-26
+C00085,Logística Integral SRL,Electrónica,Cancún,ROO,MX,Estándar,2023-11-10
+C00086,Servicios Express SA de CV,E-commerce,Culiacán,SIN,MX,Premium,2024-07-03
+C00087,Logística Oriente SA de CV,Electrónica,Mérida,YUC,MX,Premium,2025-08-09
+C00088,Distribuidora Oriente SRL,Automotriz,León,GTO,MX,Básico,2025-09-25
+C00089,Distribuidora Del Norte SAPI,Construcción,Toluca,MEX,MX,Estándar,2023-01-21
+C00090,Almacenes Centro SA de CV,Manufactura,Mérida,YUC,MX,Básico,2025-09-02
+C00091,Industrias Fénix SRL,Electrónica,Chihuahua,CHH,MX,Estándar,2024-05-13
+C00092,Servicios Oriente SAS,E-commerce,Veracruz,VER,MX,Básico,2025-05-21
+C00093,Distribuidora Oriente SA de CV,Alimentos,Mérida,YUC,MX,Básico,2023-09-05
+C00094,Industrias Del Norte SAPI,E-commerce,Tampico,TAM,MX,Básico,2024-07-20
+C00095,Grupo Global SAPI,E-commerce,León,GTO,MX,Básico,2024-09-11
+C00096,Comercializadora Centro SA de CV,Retail,Guadalajara,JAL,MX,Estándar,2024-08-21
+C00097,Almacenes Oriente SAPI,Retail,Tampico,TAM,MX,Básico,2025-09-07
+C00098,Transportes Pacífico SAS,Manufactura,Tampico,TAM,MX,Estándar,2023-08-22
+C00099,Comercializadora Fénix SRL,Manufactura,Guadalajara,JAL,MX,Premium,2023-11-07
+C00100,Distribuidora Global SAS,Electrónica,Querétaro,QRO,MX,Premium,2025-05-02
+C00101,Industrias Fénix SA de CV,Manufactura,San Luis Potosí,SLP,MX,Premium,2025-05-28
+C00102,Industrias Del Norte SAPI,Farmacéutica,Tijuana,BCN,MX,Básico,2024-03-08
+C00103,Grupo Pacífico SAS,Electrónica,Monterrey,NL,MX,Básico,2023-11-17
+C00104,Industrias Centro SA de CV,Farmacéutica,Mérida,YUC,MX,Premium,2024-08-13
+C00105,Logística Del Norte SAPI,Alimentos,Culiacán,SIN,MX,Premium,2024-02-10
+C00106,Grupo Integral SRL,E-commerce,Puebla,PUE,MX,Estándar,2023-05-27
+C00107,Logística Sigma SAS,Electrónica,Cancún,ROO,MX,Básico,2024-09-14
+C00108,Servicios Fénix SRL,Retail,Guadalajara,JAL,MX,Básico,2025-06-03
+C00109,Industrias Fénix SA de CV,Alimentos,Culiacán,SIN,MX,Estándar,2023-02-12
+C00110,Comercializadora Fénix SAS,Electrónica,Cancún,ROO,MX,Premium,2024-07-23
+C00111,Logística Oriente SRL,Manufactura,Tampico,TAM,MX,Premium,2024-12-13
+C00112,Almacenes Sigma SAS,Retail,Aguascalientes,AGS,MX,Estándar,2025-04-23
+C00113,Servicios Del Norte SAS,Retail,Aguascalientes,AGS,MX,Estándar,2024-05-31
+C00114,Logística Azteca SAPI,Automotriz,Morelia,MICH,MX,Estándar,2025-08-04
+C00115,Grupo Express SRL,Alimentos,Tampico,TAM,MX,Premium,2025-06-24
+C00116,Transportes Azteca SAPI,Alimentos,Cancún,ROO,MX,Básico,2025-09-19
+C00117,Transportes Express SA de CV,Electrónica,CDMX,CDMX,MX,Premium,2025-04-15
+C00118,Industrias Global SRL,Construcción,Puebla,PUE,MX,Premium,2025-10-17
+C00119,Almacenes Global SAPI,Construcción,Tampico,TAM,MX,Básico,2024-05-14
+C00120,Transportes Sigma SAS,Automotriz,Villahermosa,TAB,MX,Premium,2023-10-07
+C00121,Grupo Sigma SRL,Electrónica,Villahermosa,TAB,MX,Premium,2024-07-01
+C00122,Almacenes Oriente SRL,Construcción,Cancún,ROO,MX,Estándar,2026-01-08
+C00123,Distribuidora Fénix SAS,Farmacéutica,Aguascalientes,AGS,MX,Premium,2024-01-22
+C00124,Servicios Centro SAS,Construcción,Hermosillo,SON,MX,Premium,2023-03-31
+C00125,Grupo Integral SRL,Manufactura,Puebla,PUE,MX,Premium,2025-10-11
+C00126,Almacenes Azteca SAPI,Construcción,Cancún,ROO,MX,Premium,2023-07-24
+C00127,Almacenes Sigma SRL,Construcción,Puebla,PUE,MX,Estándar,2023-06-03
+C00128,Logística Oriente SAS,Retail,Aguascalientes,AGS,MX,Estándar,2025-12-28
+C00129,Distribuidora Del Norte SAS,Manufactura,Mérida,YUC,MX,Estándar,2024-08-11
+C00130,Comercializadora Sigma SA de CV,Retail,Querétaro,QRO,MX,Básico,2025-06-27
+C00131,Servicios Oriente SAS,Alimentos,Guadalajara,JAL,MX,Básico,2024-08-23
+C00132,Comercializadora Integral SA de CV,Construcción,Hermosillo,SON,MX,Estándar,2024-01-04
+C00133,Comercializadora Express SAS,E-commerce,Mérida,YUC,MX,Estándar,2025-10-16
+C00134,Industrias Global SAPI,Manufactura,CDMX,CDMX,MX,Estándar,2025-08-10
+C00135,Logística Sigma SAS,E-commerce,Veracruz,VER,MX,Básico,2024-09-04
+C00136,Transportes Express SAS,Automotriz,Chihuahua,CHH,MX,Estándar,2025-09-16
+C00137,Logística Sigma SA de CV,Retail,San Luis Potosí,SLP,MX,Premium,2023-02-14
+C00138,Distribuidora Fénix SRL,Farmacéutica,Tampico,TAM,MX,Estándar,2024-08-09
+C00139,Transportes Azteca SRL,Electrónica,Toluca,MEX,MX,Básico,2023-10-08
+C00140,Transportes Sigma SRL,Construcción,Veracruz,VER,MX,Básico,2023-09-27
+C00141,Servicios Global SRL,Alimentos,Puebla,PUE,MX,Básico,2026-01-09
+C00142,Servicios Del Norte SAS,Manufactura,Tampico,TAM,MX,Básico,2024-08-27
+C00143,Servicios Del Norte SAS,Retail,Mérida,YUC,MX,Básico,2025-03-24
+C00144,Servicios Sigma SAS,Automotriz,Querétaro,QRO,MX,Básico,2025-07-20
+C00145,Grupo Fénix SRL,Farmacéutica,Mérida,YUC,MX,Estándar,2025-08-23
+C00146,Logística Del Norte SAPI,Retail,Cancún,ROO,MX,Premium,2024-09-10
+C00147,Transportes Del Norte SAPI,Alimentos,San Luis Potosí,SLP,MX,Estándar,2025-10-05
+C00148,Logística Fénix SAPI,Construcción,Veracruz,VER,MX,Estándar,2026-01-11
+C00149,Industrias Azteca SRL,Farmacéutica,Tampico,TAM,MX,Estándar,2025-04-15
+C00150,Transportes Oriente SRL,Retail,Mérida,YUC,MX,Estándar,2025-01-12
+C00151,Almacenes Del Norte SAPI,Retail,Tijuana,BCN,MX,Básico,2023-09-08
+C00152,Comercializadora Fénix SAPI,Manufactura,Aguascalientes,AGS,MX,Premium,2024-05-13
+C00153,Distribuidora Express SRL,Alimentos,Morelia,MICH,MX,Estándar,2024-02-29
+C00154,Comercializadora Integral SRL,Alimentos,CDMX,CDMX,MX,Básico,2024-07-21
+C00155,Grupo Oriente SAPI,Automotriz,CDMX,CDMX,MX,Básico,2023-09-27
+C00156,Comercializadora Pacífico SA de CV,Manufactura,Toluca,MEX,MX,Estándar,2023-04-18
+C00157,Transportes Centro SAPI,Retail,Veracruz,VER,MX,Estándar,2025-11-17
+C00158,Almacenes Azteca SA de CV,Electrónica,Villahermosa,TAB,MX,Premium,2024-09-09
+C00159,Almacenes Centro SA de CV,Manufactura,Hermosillo,SON,MX,Básico,2023-08-10
+C00160,Comercializadora Sigma SRL,Construcción,Puebla,PUE,MX,Premium,2023-05-15
+C00161,Almacenes Global SAS,Manufactura,Villahermosa,TAB,MX,Estándar,2024-08-26
+C00162,Logística Centro SAPI,Construcción,Querétaro,QRO,MX,Básico,2024-03-16
+C00163,Logística Del Norte SRL,Construcción,Cancún,ROO,MX,Básico,2025-03-27
+C00164,Comercializadora Centro SA de CV,Manufactura,Toluca,MEX,MX,Premium,2025-02-05
+C00165,Transportes Oriente SAPI,Retail,Monterrey,NL,MX,Estándar,2025-06-03
+C00166,Transportes Pacífico SRL,Construcción,Morelia,MICH,MX,Premium,2024-11-06
+C00167,Industrias Oriente SA de CV,Farmacéutica,Guadalajara,JAL,MX,Básico,2024-08-12
+C00168,Transportes Oriente SRL,Manufactura,Tampico,TAM,MX,Estándar,2024-04-04
+C00169,Logística Global SA de CV,E-commerce,Culiacán,SIN,MX,Básico,2024-04-08
+C00170,Servicios Oriente SA de CV,Alimentos,Toluca,MEX,MX,Premium,2024-09-24
+C00171,Transportes Integral SA de CV,Manufactura,Culiacán,SIN,MX,Estándar,2025-03-31
+C00172,Logística Centro SRL,Alimentos,Tijuana,BCN,MX,Estándar,2025-02-09
+C00173,Grupo Integral SAPI,Retail,Aguascalientes,AGS,MX,Estándar,2023-06-23
+C00174,Logística Centro SAS,Construcción,Toluca,MEX,MX,Básico,2025-06-26
+C00175,Servicios Pacífico SA de CV,E-commerce,Villahermosa,TAB,MX,Estándar,2023-08-22
+C00176,Industrias Azteca SAPI,Construcción,Culiacán,SIN,MX,Premium,2025-09-23
+C00177,Distribuidora Sigma SAPI,Alimentos,Guadalajara,JAL,MX,Estándar,2023-01-16
+C00178,Transportes Azteca SAS,Construcción,San Luis Potosí,SLP,MX,Básico,2024-11-02
+C00179,Distribuidora Global SRL,Manufactura,Chihuahua,CHH,MX,Estándar,2025-12-26
+C00180,Grupo Centro SA de CV,Automotriz,Guadalajara,JAL,MX,Estándar,2025-06-12
+C00181,Logística Sigma SA de CV,Construcción,Culiacán,SIN,MX,Básico,2025-04-08
+C00182,Almacenes Oriente SA de CV,Construcción,Aguascalientes,AGS,MX,Premium,2023-12-18
+C00183,Logística Global SA de CV,Construcción,Mérida,YUC,MX,Premium,2025-06-11
+C00184,Servicios Integral SA de CV,Manufactura,Aguascalientes,AGS,MX,Estándar,2024-03-29
+C00185,Servicios Integral SAPI,Manufactura,Tijuana,BCN,MX,Básico,2024-12-16
+C00186,Comercializadora Del Norte SAPI,Electrónica,Tijuana,BCN,MX,Estándar,2023-12-22
+C00187,Servicios Oriente SAPI,Electrónica,Culiacán,SIN,MX,Básico,2025-07-08
+C00188,Industrias Fénix SA de CV,Automotriz,Cancún,ROO,MX,Estándar,2024-09-12
+C00189,Almacenes Azteca SA de CV,Automotriz,San Luis Potosí,SLP,MX,Premium,2025-08-03
+C00190,Logística Centro SA de CV,Electrónica,Monterrey,NL,MX,Premium,2023-07-04
+C00191,Servicios Fénix SAS,Alimentos,Culiacán,SIN,MX,Premium,2024-01-21
+C00192,Servicios Del Norte SAPI,Retail,Cancún,ROO,MX,Básico,2023-07-31
+C00193,Comercializadora Oriente SRL,E-commerce,Cancún,ROO,MX,Estándar,2025-06-18
+C00194,Servicios Del Norte SRL,Manufactura,Aguascalientes,AGS,MX,Estándar,2023-04-18
+C00195,Industrias Fénix SAPI,Automotriz,Chihuahua,CHH,MX,Básico,2024-08-04
+C00196,Industrias Pacífico SAPI,Manufactura,Puebla,PUE,MX,Básico,2024-12-17
+C00197,Comercializadora Global SA de CV,Construcción,Chihuahua,CHH,MX,Estándar,2024-11-03
+C00198,Industrias Integral SAPI,Automotriz,CDMX,CDMX,MX,Premium,2025-01-12
+C00199,Distribuidora Integral SAPI,Manufactura,Tampico,TAM,MX,Básico,2024-01-29
+C00200,Grupo Oriente SAPI,Construcción,Querétaro,QRO,MX,Básico,2025-11-05
+C00201,Almacenes Azteca SAS,Automotriz,León,GTO,MX,Estándar,2023-12-06
+C00202,Industrias Centro SAPI,Farmacéutica,Mérida,YUC,MX,Básico,2025-06-28
+C00203,Servicios Fénix SAS,Electrónica,Tampico,TAM,MX,Estándar,2024-02-02
+C00204,Logística Integral SAPI,Alimentos,Chihuahua,CHH,MX,Premium,2025-10-26
+C00205,Servicios Global SA de CV,Manufactura,Guadalajara,JAL,MX,Básico,2025-09-11
+C00206,Almacenes Global SAPI,Construcción,León,GTO,MX,Básico,2024-07-12
+C00207,Servicios Azteca SAS,Retail,Mérida,YUC,MX,Estándar,2025-07-12
+C00208,Logística Del Norte SRL,Farmacéutica,Veracruz,VER,MX,Básico,2024-04-27
+C00209,Comercializadora Integral SA de CV,E-commerce,Querétaro,QRO,MX,Premium,2024-11-17
+C00210,Almacenes Centro SA de CV,Manufactura,Tampico,TAM,MX,Básico,2023-10-12
+C00211,Logística Del Norte SRL,Farmacéutica,Tijuana,BCN,MX,Básico,2023-11-03
+C00212,Logística Fénix SAS,Manufactura,Guadalajara,JAL,MX,Básico,2024-05-03
+C00213,Grupo Global SAPI,Alimentos,Tampico,TAM,MX,Básico,2026-01-02
+C00214,Distribuidora Fénix SAS,Alimentos,CDMX,CDMX,MX,Estándar,2024-12-23
+C00215,Servicios Del Norte SA de CV,Construcción,Monterrey,NL,MX,Premium,2025-12-08
+C00216,Servicios Sigma SA de CV,Automotriz,Guadalajara,JAL,MX,Estándar,2025-03-03
+C00217,Transportes Fénix SRL,Alimentos,Veracruz,VER,MX,Básico,2024-05-08
+C00218,Comercializadora Centro SAS,Alimentos,Morelia,MICH,MX,Premium,2024-11-24
+C00219,Grupo Sigma SAPI,Retail,Monterrey,NL,MX,Estándar,2025-07-26
+C00220,Industrias Global SAS,Electrónica,Guadalajara,JAL,MX,Básico,2024-10-08
+C00221,Servicios Azteca SRL,E-commerce,Tijuana,BCN,MX,Básico,2024-08-08
+C00222,Logística Centro SAS,Automotriz,Veracruz,VER,MX,Premium,2025-06-13
+C00223,Servicios Global SRL,Manufactura,Tampico,TAM,MX,Estándar,2025-10-15
+C00224,Comercializadora Global SRL,Automotriz,Monterrey,NL,MX,Básico,2025-05-31
+C00225,Industrias Centro SAS,Alimentos,Aguascalientes,AGS,MX,Estándar,2024-08-28
+C00226,Grupo Oriente SAS,E-commerce,Veracruz,VER,MX,Estándar,2025-07-04
+C00227,Logística Oriente SAPI,Retail,Guadalajara,JAL,MX,Básico,2023-06-03
+C00228,Comercializadora Del Norte SAPI,Automotriz,Cancún,ROO,MX,Estándar,2023-03-13
+C00229,Comercializadora Centro SRL,Automotriz,Culiacán,SIN,MX,Estándar,2023-03-08
+C00230,Servicios Pacífico SRL,E-commerce,Monterrey,NL,MX,Básico,2023-10-09
+C00231,Comercializadora Centro SAS,Manufactura,Querétaro,QRO,MX,Básico,2023-02-23
+C00232,Distribuidora Fénix SRL,Electrónica,Toluca,MEX,MX,Básico,2025-07-02
+C00233,Almacenes Integral SAS,Manufactura,Puebla,PUE,MX,Premium,2023-06-01
+C00234,Transportes Global SRL,E-commerce,Aguascalientes,AGS,MX,Premium,2024-12-12
+C00235,Distribuidora Del Norte SAPI,Alimentos,León,GTO,MX,Básico,2025-01-10
+C00236,Servicios Global SRL,Electrónica,Tampico,TAM,MX,Premium,2023-02-23
+C00237,Transportes Del Norte SRL,Construcción,Morelia,MICH,MX,Premium,2023-09-23
+C00238,Logística Pacífico SA de CV,Alimentos,Tampico,TAM,MX,Premium,2025-12-12
+C00239,Almacenes Global SRL,Alimentos,Monterrey,NL,MX,Premium,2025-07-10
+C00240,Comercializadora Pacífico SA de CV,Manufactura,Morelia,MICH,MX,Estándar,2024-01-08
+C00241,Comercializadora Oriente SAPI,Automotriz,San Luis Potosí,SLP,MX,Premium,2023-12-04
+C00242,Transportes Sigma SAPI,E-commerce,Villahermosa,TAB,MX,Básico,2024-08-04
+C00243,Transportes Global SAPI,Alimentos,San Luis Potosí,SLP,MX,Básico,2025-12-28
+C00244,Grupo Del Norte SA de CV,E-commerce,Aguascalientes,AGS,MX,Estándar,2023-03-26
+C00245,Grupo Centro SRL,E-commerce,Culiacán,SIN,MX,Estándar,2025-05-03
+C00246,Almacenes Del Norte SA de CV,Alimentos,Chihuahua,CHH,MX,Estándar,2024-09-01
+C00247,Distribuidora Oriente SAPI,Automotriz,Tampico,TAM,MX,Premium,2025-08-09
+C00248,Logística Integral SRL,Manufactura,Aguascalientes,AGS,MX,Básico,2024-12-08
+C00249,Industrias Centro SAPI,Alimentos,Cancún,ROO,MX,Básico,2023-09-08
+C00250,Logística Express SAPI,Automotriz,San Luis Potosí,SLP,MX,Premium,2025-02-25
+C00251,Comercializadora Centro SAS,Electrónica,Aguascalientes,AGS,MX,Premium,2024-01-24
+C00252,Transportes Pacífico SAS,Farmacéutica,Tampico,TAM,MX,Básico,2023-02-17
+C00253,Grupo Sigma SAS,Electrónica,Veracruz,VER,MX,Básico,2023-04-10
+C00254,Logística Integral SRL,Automotriz,CDMX,CDMX,MX,Estándar,2023-08-09
+C00255,Logística Azteca SAPI,Automotriz,Veracruz,VER,MX,Estándar,2023-04-03
+C00256,Almacenes Global SRL,Manufactura,Monterrey,NL,MX,Básico,2025-03-02
+C00257,Servicios Oriente SRL,Alimentos,Querétaro,QRO,MX,Básico,2025-03-17
+C00258,Grupo Azteca SA de CV,Alimentos,Villahermosa,TAB,MX,Estándar,2025-04-02
+C00259,Almacenes Integral SAPI,Automotriz,Tampico,TAM,MX,Premium,2025-11-29
+C00260,Logística Fénix SRL,Automotriz,Aguascalientes,AGS,MX,Estándar,2023-11-29
+C00261,Almacenes Fénix SRL,Electrónica,Villahermosa,TAB,MX,Premium,2025-12-26
+C00262,Transportes Pacífico SRL,Retail,Veracruz,VER,MX,Estándar,2024-11-09
+C00263,Grupo Fénix SAS,Alimentos,Toluca,MEX,MX,Estándar,2024-04-11
+C00264,Distribuidora Azteca SA de CV,Farmacéutica,Chihuahua,CHH,MX,Básico,2023-10-30
+C00265,Comercializadora Pacífico SAPI,Construcción,Aguascalientes,AGS,MX,Estándar,2025-05-07
+C00266,Comercializadora Global SAPI,Automotriz,Tampico,TAM,MX,Premium,2023-05-08
+C00267,Logística Oriente SAPI,Electrónica,Tampico,TAM,MX,Premium,2025-12-12
+C00268,Servicios Sigma SAS,Farmacéutica,Aguascalientes,AGS,MX,Premium,2026-01-23
+C00269,Distribuidora Sigma SRL,Farmacéutica,Toluca,MEX,MX,Estándar,2024-09-03
+C00270,Almacenes Oriente SRL,E-commerce,Tampico,TAM,MX,Básico,2024-10-11
+C00271,Logística Oriente SAPI,E-commerce,Morelia,MICH,MX,Básico,2025-02-16
+C00272,Almacenes Sigma SAS,Farmacéutica,Monterrey,NL,MX,Básico,2024-12-10
+C00273,Industrias Integral SA de CV,Farmacéutica,Morelia,MICH,MX,Básico,2024-07-09
+C00274,Distribuidora Azteca SA de CV,Construcción,Villahermosa,TAB,MX,Básico,2024-04-07
+C00275,Comercializadora Azteca SAPI,Construcción,Tampico,TAM,MX,Estándar,2023-07-25
+C00276,Distribuidora Sigma SRL,E-commerce,Tampico,TAM,MX,Estándar,2025-09-04
+C00277,Grupo Integral SAS,Alimentos,Monterrey,NL,MX,Premium,2024-04-20
+C00278,Almacenes Integral SRL,Retail,Guadalajara,JAL,MX,Básico,2025-03-24
+C00279,Servicios Sigma SAS,Electrónica,Culiacán,SIN,MX,Premium,2023-08-08
+C00280,Almacenes Sigma SAPI,Manufactura,Puebla,PUE,MX,Básico,2025-10-29
+C00281,Comercializadora Azteca SRL,E-commerce,Cancún,ROO,MX,Estándar,2024-06-10
+C00282,Logística Pacífico SRL,Manufactura,Tijuana,BCN,MX,Estándar,2023-12-26
+C00283,Comercializadora Centro SRL,Farmacéutica,Querétaro,QRO,MX,Básico,2024-01-14
+C00284,Almacenes Sigma SRL,E-commerce,Chihuahua,CHH,MX,Estándar,2024-04-27
+C00285,Industrias Oriente SAPI,Retail,Culiacán,SIN,MX,Estándar,2023-01-24
+C00286,Comercializadora Pacífico SRL,Manufactura,Cancún,ROO,MX,Estándar,2024-09-20
+C00287,Distribuidora Express SAPI,Electrónica,San Luis Potosí,SLP,MX,Básico,2025-01-22
+C00288,Almacenes Global SAPI,Farmacéutica,Veracruz,VER,MX,Estándar,2025-05-01
+C00289,Almacenes Global SRL,Manufactura,Monterrey,NL,MX,Premium,2025-12-12
+C00290,Distribuidora Fénix SAPI,Alimentos,Querétaro,QRO,MX,Básico,2023-05-07
+C00291,Transportes Express SAS,Manufactura,Villahermosa,TAB,MX,Premium,2025-06-23
+C00292,Almacenes Integral SAS,Electrónica,Cancún,ROO,MX,Estándar,2023-04-24
+C00293,Industrias Azteca SAS,E-commerce,Morelia,MICH,MX,Premium,2025-08-04
+C00294,Grupo Pacífico SRL,Manufactura,Tijuana,BCN,MX,Estándar,2023-05-30
+C00295,Almacenes Azteca SRL,Construcción,Guadalajara,JAL,MX,Básico,2023-05-22
+C00296,Servicios Pacífico SAS,Construcción,Puebla,PUE,MX,Estándar,2025-05-10
+C00297,Servicios Del Norte SAPI,Construcción,Morelia,MICH,MX,Estándar,2023-09-30
+C00298,Grupo Sigma SAS,Construcción,Mérida,YUC,MX,Estándar,2023-01-08
+C00299,Almacenes Oriente SAPI,E-commerce,Mérida,YUC,MX,Básico,2024-05-21
+C00300,Logística Fénix SA de CV,Farmacéutica,Querétaro,QRO,MX,Básico,2023-03-07
+C00301,Almacenes Fénix SA de CV,Farmacéutica,Querétaro,QRO,MX,Estándar,2023-03-10
+C00302,Distribuidora Global SAPI,Retail,Chihuahua,CHH,MX,Básico,2025-06-17
+C00303,Servicios Fénix SRL,Farmacéutica,San Luis Potosí,SLP,MX,Básico,2024-04-24
+C00304,Distribuidora Pacífico SRL,E-commerce,Puebla,PUE,MX,Básico,2025-12-03
+C00305,Logística Global SAS,Retail,Culiacán,SIN,MX,Premium,2023-12-25
+C00306,Servicios Pacífico SAS,Alimentos,Chihuahua,CHH,MX,Básico,2025-12-10
+C00307,Almacenes Express SAPI,E-commerce,León,GTO,MX,Premium,2026-01-06
+C00308,Grupo Global SAS,Construcción,Puebla,PUE,MX,Estándar,2025-08-06
+C00309,Distribuidora Sigma SAPI,Automotriz,Puebla,PUE,MX,Estándar,2025-03-06
+C00310,Transportes Global SAPI,Retail,Cancún,ROO,MX,Básico,2025-01-29
+C00311,Distribuidora Fénix SAPI,Electrónica,Guadalajara,JAL,MX,Básico,2023-05-30
+C00312,Grupo Express SAPI,Manufactura,Aguascalientes,AGS,MX,Estándar,2024-09-12
+C00313,Distribuidora Pacífico SAPI,Automotriz,Tampico,TAM,MX,Estándar,2024-05-11
+C00314,Servicios Sigma SRL,Automotriz,Chihuahua,CHH,MX,Estándar,2025-08-12
+C00315,Transportes Centro SRL,Farmacéutica,Tampico,TAM,MX,Estándar,2025-08-12
+C00316,Distribuidora Integral SA de CV,E-commerce,Hermosillo,SON,MX,Estándar,2023-04-04
+C00317,Industrias Integral SAPI,Automotriz,Culiacán,SIN,MX,Básico,2025-05-05
+C00318,Almacenes Global SRL,E-commerce,Culiacán,SIN,MX,Estándar,2024-05-18
+C00319,Almacenes Integral SRL,Alimentos,Tampico,TAM,MX,Básico,2025-10-01
+C00320,Comercializadora Global SA de CV,Retail,Morelia,MICH,MX,Premium,2025-09-27
+C00321,Grupo Pacífico SAPI,Farmacéutica,Monterrey,NL,MX,Básico,2023-04-10
+C00322,Distribuidora Global SAS,Automotriz,Puebla,PUE,MX,Básico,2023-01-19
+C00323,Grupo Azteca SAS,Retail,Tampico,TAM,MX,Básico,2025-09-26
+C00324,Industrias Azteca SAS,Alimentos,Toluca,MEX,MX,Básico,2026-01-02
+C00325,Comercializadora Express SAPI,E-commerce,Querétaro,QRO,MX,Premium,2025-12-09
+C00326,Transportes Oriente SAS,Electrónica,Toluca,MEX,MX,Estándar,2025-03-23
+C00327,Transportes Azteca SA de CV,Construcción,Mérida,YUC,MX,Estándar,2024-09-06
+C00328,Grupo Azteca SAPI,Manufactura,Morelia,MICH,MX,Estándar,2025-09-01
+C00329,Transportes Global SA de CV,Farmacéutica,Hermosillo,SON,MX,Básico,2024-11-09
+C00330,Industrias Azteca SA de CV,E-commerce,Culiacán,SIN,MX,Premium,2025-08-31
+C00331,Comercializadora Oriente SA de CV,Farmacéutica,Culiacán,SIN,MX,Estándar,2023-03-09
+C00332,Industrias Integral SAPI,Construcción,Chihuahua,CHH,MX,Estándar,2023-06-07
+C00333,Logística Integral SA de CV,Automotriz,Morelia,MICH,MX,Básico,2024-11-10
+C00334,Transportes Oriente SAS,Automotriz,Hermosillo,SON,MX,Básico,2024-04-20
+C00335,Almacenes Express SRL,Construcción,Toluca,MEX,MX,Estándar,2025-07-11
+C00336,Transportes Fénix SRL,Farmacéutica,Culiacán,SIN,MX,Estándar,2025-02-17
+C00337,Comercializadora Pacífico SAPI,Construcción,Monterrey,NL,MX,Básico,2024-07-02
+C00338,Grupo Sigma SAS,Automotriz,Querétaro,QRO,MX,Estándar,2023-07-07
+C00339,Transportes Integral SAS,Electrónica,Querétaro,QRO,MX,Estándar,2023-09-29
+C00340,Transportes Azteca SA de CV,Automotriz,Villahermosa,TAB,MX,Estándar,2025-04-15
+C00341,Grupo Sigma SAS,Construcción,Aguascalientes,AGS,MX,Estándar,2025-02-27
+C00342,Comercializadora Pacífico SAPI,Alimentos,Morelia,MICH,MX,Básico,2024-05-12
+C00343,Comercializadora Del Norte SAPI,Construcción,Toluca,MEX,MX,Básico,2025-10-06
+C00344,Transportes Oriente SRL,Farmacéutica,San Luis Potosí,SLP,MX,Estándar,2025-09-18
+C00345,Almacenes Del Norte SAPI,E-commerce,Tampico,TAM,MX,Básico,2024-02-05
+C00346,Logística Oriente SAS,Automotriz,Chihuahua,CHH,MX,Estándar,2024-11-11
+C00347,Servicios Fénix SAPI,Electrónica,Puebla,PUE,MX,Básico,2024-09-07
+C00348,Industrias Centro SAPI,Automotriz,Chihuahua,CHH,MX,Estándar,2024-10-15
+C00349,Transportes Fénix SAPI,Alimentos,Chihuahua,CHH,MX,Estándar,2025-01-17
+C00350,Almacenes Express SAS,E-commerce,Morelia,MICH,MX,Premium,2023-02-25
+C00351,Almacenes Integral SRL,Farmacéutica,Monterrey,NL,MX,Básico,2025-04-17
+C00352,Logística Del Norte SAS,Electrónica,Puebla,PUE,MX,Estándar,2025-05-16
+C00353,Logística Global SA de CV,Automotriz,Morelia,MICH,MX,Estándar,2025-11-03
+C00354,Transportes Express SRL,Alimentos,Morelia,MICH,MX,Estándar,2023-06-24
+C00355,Servicios Pacífico SA de CV,Retail,Guadalajara,JAL,MX,Básico,2025-03-29
+C00356,Distribuidora Centro SRL,Construcción,Mérida,YUC,MX,Estándar,2025-11-11
+C00357,Comercializadora Oriente SA de CV,Electrónica,Culiacán,SIN,MX,Básico,2025-10-21
+C00358,Transportes Integral SRL,E-commerce,Hermosillo,SON,MX,Básico,2023-06-25
+C00359,Almacenes Oriente SAS,Manufactura,Tijuana,BCN,MX,Estándar,2025-12-03
+C00360,Transportes Sigma SA de CV,Manufactura,Cancún,ROO,MX,Básico,2024-10-15
+C00361,Comercializadora Express SAPI,Alimentos,Aguascalientes,AGS,MX,Básico,2023-08-12
+C00362,Distribuidora Pacífico SAPI,Alimentos,Hermosillo,SON,MX,Estándar,2025-08-04
+C00363,Grupo Fénix SAPI,Electrónica,Hermosillo,SON,MX,Estándar,2025-03-21
+C00364,Distribuidora Express SRL,Manufactura,Chihuahua,CHH,MX,Estándar,2023-01-10
+C00365,Servicios Oriente SAPI,Electrónica,Morelia,MICH,MX,Básico,2024-01-18
+C00366,Servicios Fénix SAS,Construcción,Tampico,TAM,MX,Estándar,2025-12-16
+C00367,Almacenes Fénix SAPI,E-commerce,Veracruz,VER,MX,Premium,2024-12-21
+C00368,Comercializadora Oriente SA de CV,Farmacéutica,Culiacán,SIN,MX,Básico,2023-06-23
+C00369,Comercializadora Global SAS,Construcción,León,GTO,MX,Estándar,2025-02-03
+C00370,Logística Integral SAS,Alimentos,Culiacán,SIN,MX,Estándar,2025-02-24
+C00371,Comercializadora Integral SRL,Electrónica,Tampico,TAM,MX,Estándar,2024-08-14
+C00372,Almacenes Integral SAPI,Construcción,Veracruz,VER,MX,Premium,2023-01-20
+C00373,Logística Centro SAS,Electrónica,Villahermosa,TAB,MX,Estándar,2025-10-10
+C00374,Distribuidora Sigma SA de CV,E-commerce,Monterrey,NL,MX,Básico,2023-03-05
+C00375,Almacenes Fénix SAS,Manufactura,San Luis Potosí,SLP,MX,Estándar,2023-12-11
+C00376,Servicios Global SA de CV,Electrónica,Toluca,MEX,MX,Estándar,2026-01-17
+C00377,Distribuidora Sigma SA de CV,Electrónica,Hermosillo,SON,MX,Básico,2023-07-29
+C00378,Transportes Express SAPI,Automotriz,Monterrey,NL,MX,Premium,2025-06-18
+C00379,Comercializadora Express SAPI,Retail,Hermosillo,SON,MX,Estándar,2023-12-06
+C00380,Comercializadora Oriente SRL,E-commerce,Morelia,MICH,MX,Estándar,2024-07-29
+C00381,Comercializadora Pacífico SA de CV,E-commerce,Villahermosa,TAB,MX,Premium,2023-07-15
+C00382,Distribuidora Integral SRL,Farmacéutica,Puebla,PUE,MX,Estándar,2023-09-29
+C00383,Comercializadora Fénix SRL,Construcción,Chihuahua,CHH,MX,Estándar,2025-09-29
+C00384,Logística Global SRL,Automotriz,Monterrey,NL,MX,Estándar,2023-07-10
+C00385,Grupo Del Norte SAS,Automotriz,Tampico,TAM,MX,Premium,2024-11-01
+C00386,Distribuidora Pacífico SAPI,Electrónica,Morelia,MICH,MX,Básico,2025-03-25
+C00387,Comercializadora Fénix SAS,Automotriz,San Luis Potosí,SLP,MX,Premium,2024-11-22
+C00388,Transportes Centro SA de CV,Manufactura,Guadalajara,JAL,MX,Premium,2023-04-05
+C00389,Almacenes Azteca SAS,Farmacéutica,León,GTO,MX,Premium,2025-06-22
+C00390,Comercializadora Sigma SA de CV,Automotriz,Puebla,PUE,MX,Básico,2024-09-10
+C00391,Grupo Pacífico SRL,Farmacéutica,Veracruz,VER,MX,Estándar,2023-12-05
+C00392,Grupo Express SAS,Manufactura,Monterrey,NL,MX,Básico,2023-07-14
+C00393,Almacenes Azteca SA de CV,Automotriz,Mérida,YUC,MX,Premium,2025-11-29
+C00394,Almacenes Del Norte SAPI,Construcción,Hermosillo,SON,MX,Básico,2023-09-28
+C00395,Servicios Oriente SRL,Alimentos,Querétaro,QRO,MX,Estándar,2023-07-31
+C00396,Transportes Global SA de CV,Alimentos,Puebla,PUE,MX,Estándar,2023-10-20
+C00397,Logística Fénix SAS,Farmacéutica,Tijuana,BCN,MX,Básico,2023-11-07
+C00398,Transportes Fénix SAS,Automotriz,Querétaro,QRO,MX,Premium,2023-10-14
+C00399,Distribuidora Sigma SA de CV,Farmacéutica,Aguascalientes,AGS,MX,Estándar,2023-10-14
+C00400,Industrias Express SAPI,Construcción,San Luis Potosí,SLP,MX,Básico,2023-02-24
+C00401,Almacenes Pacífico SA de CV,Farmacéutica,Guadalajara,JAL,MX,Estándar,2024-05-05
+C00402,Grupo Oriente SRL,Alimentos,Monterrey,NL,MX,Estándar,2025-12-17
+C00403,Servicios Global SAPI,Electrónica,Culiacán,SIN,MX,Premium,2025-05-11
+C00404,Transportes Azteca SRL,Farmacéutica,Monterrey,NL,MX,Básico,2023-02-04
+C00405,Industrias Global SAS,Construcción,Guadalajara,JAL,MX,Estándar,2025-03-26
+C00406,Comercializadora Sigma SA de CV,E-commerce,Monterrey,NL,MX,Básico,2026-01-03
+C00407,Servicios Pacífico SA de CV,E-commerce,Tijuana,BCN,MX,Estándar,2023-11-15
+C00408,Distribuidora Del Norte SAS,Manufactura,Mérida,YUC,MX,Estándar,2023-04-29
+C00409,Comercializadora Del Norte SA de CV,Alimentos,Guadalajara,JAL,MX,Estándar,2024-09-25
+C00410,Servicios Global SRL,Alimentos,León,GTO,MX,Estándar,2025-10-13
+C00411,Grupo Oriente SAS,E-commerce,Toluca,MEX,MX,Estándar,2023-08-30
+C00412,Almacenes Centro SRL,Retail,Toluca,MEX,MX,Estándar,2023-06-07
+C00413,Servicios Integral SRL,Manufactura,Culiacán,SIN,MX,Premium,2023-12-08
+C00414,Grupo Azteca SA de CV,Farmacéutica,Querétaro,QRO,MX,Básico,2024-04-12
+C00415,Comercializadora Integral SA de CV,Construcción,Veracruz,VER,MX,Básico,2025-02-23
+C00416,Servicios Sigma SA de CV,Automotriz,Mérida,YUC,MX,Básico,2025-05-02
+C00417,Distribuidora Global SA de CV,Construcción,Guadalajara,JAL,MX,Básico,2024-01-03
+C00418,Industrias Oriente SA de CV,Electrónica,Cancún,ROO,MX,Básico,2024-08-01
+C00419,Industrias Fénix SAPI,Electrónica,Tijuana,BCN,MX,Estándar,2024-08-20
+C00420,Distribuidora Integral SA de CV,Construcción,Tampico,TAM,MX,Básico,2024-02-05
+C00421,Grupo Oriente SA de CV,Construcción,Morelia,MICH,MX,Premium,2024-12-10
+C00422,Distribuidora Global SAPI,Construcción,San Luis Potosí,SLP,MX,Estándar,2023-08-01
+C00423,Industrias Del Norte SA de CV,Farmacéutica,Guadalajara,JAL,MX,Premium,2023-10-19
+C00424,Servicios Centro SA de CV,Manufactura,Villahermosa,TAB,MX,Estándar,2025-04-25
+C00425,Grupo Pacífico SAPI,Farmacéutica,Chihuahua,CHH,MX,Básico,2023-06-03
+C00426,Servicios Oriente SAS,E-commerce,Aguascalientes,AGS,MX,Básico,2025-03-15
+C00427,Transportes Integral SA de CV,Alimentos,Tijuana,BCN,MX,Estándar,2023-10-06
+C00428,Transportes Global SRL,Farmacéutica,Aguascalientes,AGS,MX,Estándar,2025-04-12
+C00429,Transportes Del Norte SAPI,E-commerce,Cancún,ROO,MX,Premium,2024-06-26
+C00430,Servicios Integral SA de CV,Farmacéutica,Guadalajara,JAL,MX,Premium,2024-03-16
+C00431,Grupo Sigma SRL,Alimentos,Chihuahua,CHH,MX,Básico,2025-11-17
+C00432,Distribuidora Del Norte SAS,Manufactura,Chihuahua,CHH,MX,Premium,2025-07-15
+C00433,Grupo Azteca SAPI,Alimentos,Puebla,PUE,MX,Básico,2023-09-06
+C00434,Transportes Fénix SRL,Manufactura,Chihuahua,CHH,MX,Básico,2025-02-01
+C00435,Almacenes Integral SA de CV,Automotriz,Monterrey,NL,MX,Básico,2024-02-09
+C00436,Comercializadora Fénix SAS,Construcción,Cancún,ROO,MX,Estándar,2023-04-14
+C00437,Comercializadora Oriente SAPI,Alimentos,Chihuahua,CHH,MX,Básico,2025-05-23
+C00438,Grupo Fénix SAPI,E-commerce,Cancún,ROO,MX,Estándar,2023-11-01
+C00439,Grupo Del Norte SRL,Construcción,Morelia,MICH,MX,Básico,2025-09-08
+C00440,Distribuidora Global SA de CV,Construcción,Tijuana,BCN,MX,Estándar,2025-12-12
+C00441,Almacenes Oriente SRL,Construcción,Veracruz,VER,MX,Básico,2025-09-09
+C00442,Distribuidora Azteca SRL,Retail,CDMX,CDMX,MX,Premium,2024-10-15
+C00443,Servicios Fénix SAPI,Alimentos,Tampico,TAM,MX,Básico,2025-12-20
+C00444,Grupo Express SAS,Automotriz,Mérida,YUC,MX,Premium,2024-06-29
+C00445,Distribuidora Fénix SRL,Automotriz,León,GTO,MX,Premium,2023-12-27
+C00446,Comercializadora Fénix SAPI,Electrónica,CDMX,CDMX,MX,Estándar,2024-12-21
+C00447,Grupo Del Norte SA de CV,Farmacéutica,León,GTO,MX,Estándar,2025-10-01
+C00448,Almacenes Azteca SRL,Farmacéutica,CDMX,CDMX,MX,Premium,2025-12-14
+C00449,Servicios Azteca SA de CV,Alimentos,Aguascalientes,AGS,MX,Estándar,2023-12-30
+C00450,Servicios Del Norte SRL,Construcción,Puebla,PUE,MX,Estándar,2023-08-16
+C00451,Servicios Integral SAPI,Construcción,Aguascalientes,AGS,MX,Estándar,2024-09-10
+C00452,Comercializadora Global SRL,Farmacéutica,Tampico,TAM,MX,Estándar,2024-10-11
+C00453,Industrias Sigma SAPI,Alimentos,León,GTO,MX,Estándar,2025-02-13
+C00454,Grupo Integral SRL,Farmacéutica,Culiacán,SIN,MX,Estándar,2025-03-12
+C00455,Comercializadora Oriente SA de CV,Farmacéutica,Querétaro,QRO,MX,Básico,2025-10-13
+C00456,Transportes Oriente SAS,Retail,Aguascalientes,AGS,MX,Básico,2023-12-10
+C00457,Servicios Sigma SA de CV,Retail,Mérida,YUC,MX,Básico,2023-05-19
+C00458,Comercializadora Pacífico SAS,Construcción,Cancún,ROO,MX,Estándar,2025-05-09
+C00459,Almacenes Fénix SAPI,Alimentos,Chihuahua,CHH,MX,Estándar,2023-07-27
+C00460,Grupo Oriente SRL,Manufactura,Guadalajara,JAL,MX,Básico,2024-08-26
+C00461,Comercializadora Del Norte SA de CV,Automotriz,León,GTO,MX,Estándar,2025-02-07
+C00462,Logística Integral SAS,Alimentos,Tampico,TAM,MX,Básico,2023-03-05
+C00463,Distribuidora Pacífico SRL,E-commerce,Aguascalientes,AGS,MX,Básico,2024-02-25
+C00464,Logística Fénix SAS,Alimentos,Querétaro,QRO,MX,Básico,2023-04-12
+C00465,Transportes Sigma SAS,Farmacéutica,CDMX,CDMX,MX,Básico,2025-05-25
+C00466,Industrias Del Norte SAS,Manufactura,Tijuana,BCN,MX,Básico,2023-12-16
+C00467,Almacenes Sigma SA de CV,Construcción,Chihuahua,CHH,MX,Básico,2025-08-22
+C00468,Comercializadora Centro SA de CV,E-commerce,Chihuahua,CHH,MX,Estándar,2025-01-26
+C00469,Industrias Fénix SA de CV,Alimentos,Toluca,MEX,MX,Estándar,2024-04-08
+C00470,Servicios Global SAS,Farmacéutica,Querétaro,QRO,MX,Estándar,2023-06-25
+C00471,Logística Global SAS,Farmacéutica,Chihuahua,CHH,MX,Estándar,2025-12-06
+C00472,Grupo Global SAPI,Manufactura,Monterrey,NL,MX,Premium,2025-03-19
+C00473,Comercializadora Express SAPI,Alimentos,Cancún,ROO,MX,Básico,2023-12-21
+C00474,Distribuidora Integral SRL,Automotriz,Monterrey,NL,MX,Premium,2025-06-10
+C00475,Logística Global SAS,Automotriz,Monterrey,NL,MX,Premium,2023-06-28
+C00476,Grupo Fénix SAS,Manufactura,Villahermosa,TAB,MX,Estándar,2025-07-27
+C00477,Transportes Fénix SA de CV,E-commerce,Puebla,PUE,MX,Premium,2023-07-25
+C00478,Industrias Pacífico SAS,Electrónica,Veracruz,VER,MX,Básico,2025-04-21
+C00479,Comercializadora Fénix SAS,Retail,Toluca,MEX,MX,Estándar,2025-04-05
+C00480,Grupo Centro SRL,Automotriz,Aguascalientes,AGS,MX,Básico,2024-05-01
+C00481,Industrias Centro SA de CV,Farmacéutica,San Luis Potosí,SLP,MX,Básico,2024-09-28
+C00482,Industrias Pacífico SA de CV,Farmacéutica,Cancún,ROO,MX,Estándar,2024-10-19
+C00483,Servicios Azteca SAPI,Manufactura,Hermosillo,SON,MX,Básico,2025-09-19
+C00484,Comercializadora Global SA de CV,Alimentos,Villahermosa,TAB,MX,Básico,2025-04-06
+C00485,Distribuidora Azteca SAS,Retail,Tijuana,BCN,MX,Premium,2023-04-29
+C00486,Servicios Centro SAS,Manufactura,Tijuana,BCN,MX,Estándar,2024-07-15
+C00487,Almacenes Fénix SAS,Alimentos,Mérida,YUC,MX,Premium,2025-02-01
+C00488,Servicios Integral SRL,Manufactura,Tampico,TAM,MX,Básico,2024-12-17
+C00489,Comercializadora Fénix SAPI,Farmacéutica,Chihuahua,CHH,MX,Estándar,2023-04-12
+C00490,Logística Global SA de CV,Retail,Tijuana,BCN,MX,Estándar,2024-07-05
+C00491,Grupo Express SRL,E-commerce,Puebla,PUE,MX,Estándar,2023-12-21
+C00492,Logística Oriente SAS,E-commerce,Toluca,MEX,MX,Básico,2025-05-17
+C00493,Logística Fénix SA de CV,Retail,San Luis Potosí,SLP,MX,Estándar,2025-12-02
+C00494,Industrias Del Norte SAS,Manufactura,Veracruz,VER,MX,Básico,2024-08-01
+C00495,Industrias Sigma SRL,Farmacéutica,Toluca,MEX,MX,Básico,2024-10-27
+C00496,Logística Oriente SAPI,Retail,Mérida,YUC,MX,Estándar,2023-04-27
+C00497,Logística Pacífico SAS,Retail,San Luis Potosí,SLP,MX,Estándar,2024-06-15
+C00498,Servicios Express SAS,Automotriz,Culiacán,SIN,MX,Estándar,2024-01-24
+C00499,Industrias Del Norte SAS,Alimentos,León,GTO,MX,Estándar,2024-01-06
+C00500,Servicios Del Norte SAPI,Automotriz,Morelia,MICH,MX,Básico,2024-01-10
+C00501,Servicios Oriente SRL,E-commerce,San Luis Potosí,SLP,MX,Estándar,2025-05-11
+C00502,Grupo Fénix SA de CV,Electrónica,Querétaro,QRO,MX,Premium,2025-08-21
+C00503,Logística Global SRL,Construcción,Villahermosa,TAB,MX,Básico,2023-09-03
+C00504,Distribuidora Oriente SAS,Electrónica,Puebla,PUE,MX,Básico,2023-10-09
+C00505,Almacenes Oriente SAPI,Automotriz,León,GTO,MX,Estándar,2023-06-15
+C00506,Industrias Express SAPI,Alimentos,CDMX,CDMX,MX,Estándar,2025-07-14
+C00507,Logística Pacífico SAS,Construcción,Monterrey,NL,MX,Premium,2023-09-23
+C00508,Grupo Global SAPI,Automotriz,Chihuahua,CHH,MX,Premium,2023-01-10
+C00509,Distribuidora Azteca SA de CV,Farmacéutica,Aguascalientes,AGS,MX,Básico,2025-12-23
+C00510,Comercializadora Del Norte SAS,E-commerce,Veracruz,VER,MX,Básico,2024-10-01
+C00511,Industrias Centro SRL,Construcción,Guadalajara,JAL,MX,Premium,2024-09-02
+C00512,Almacenes Oriente SAPI,Alimentos,Puebla,PUE,MX,Premium,2024-12-02
+C00513,Distribuidora Express SAPI,Farmacéutica,Chihuahua,CHH,MX,Estándar,2023-02-09
+C00514,Comercializadora Del Norte SRL,Retail,Culiacán,SIN,MX,Estándar,2025-10-30
+C00515,Grupo Fénix SA de CV,Manufactura,Toluca,MEX,MX,Estándar,2025-12-31
+C00516,Transportes Pacífico SAS,Construcción,CDMX,CDMX,MX,Básico,2023-04-09
+C00517,Comercializadora Express SA de CV,E-commerce,Toluca,MEX,MX,Estándar,2025-08-29
+C00518,Industrias Fénix SAPI,Construcción,Querétaro,QRO,MX,Premium,2025-12-01
+C00519,Transportes Sigma SA de CV,Manufactura,Querétaro,QRO,MX,Estándar,2025-11-13
+C00520,Distribuidora Oriente SAS,E-commerce,Tijuana,BCN,MX,Básico,2024-06-22
+C00521,Distribuidora Centro SRL,Farmacéutica,Morelia,MICH,MX,Básico,2025-10-13
+C00522,Almacenes Integral SA de CV,Manufactura,Monterrey,NL,MX,Estándar,2023-08-15
+C00523,Distribuidora Centro SRL,E-commerce,Querétaro,QRO,MX,Estándar,2024-06-08
+C00524,Grupo Sigma SRL,Automotriz,Querétaro,QRO,MX,Estándar,2023-12-24
+C00525,Grupo Azteca SAPI,Alimentos,Querétaro,QRO,MX,Básico,2023-07-14
+C00526,Transportes Oriente SRL,Alimentos,Cancún,ROO,MX,Básico,2024-07-03
+C00527,Industrias Pacífico SAS,Construcción,Chihuahua,CHH,MX,Estándar,2025-07-23
+C00528,Comercializadora Azteca SAPI,Manufactura,León,GTO,MX,Estándar,2023-08-20
+C00529,Almacenes Integral SAS,Automotriz,Culiacán,SIN,MX,Estándar,2025-09-15
+C00530,Almacenes Del Norte SAS,Electrónica,Puebla,PUE,MX,Básico,2025-09-16
+C00531,Grupo Global SAPI,Automotriz,Toluca,MEX,MX,Estándar,2024-10-05
+C00532,Distribuidora Centro SRL,Construcción,Querétaro,QRO,MX,Básico,2025-06-05
+C00533,Grupo Integral SAS,Electrónica,Morelia,MICH,MX,Premium,2023-04-22
+C00534,Servicios Express SRL,E-commerce,Monterrey,NL,MX,Básico,2025-10-03
+C00535,Logística Pacífico SAPI,Manufactura,Mérida,YUC,MX,Estándar,2026-02-01
+C00536,Transportes Centro SAS,Automotriz,Culiacán,SIN,MX,Básico,2025-07-06
+C00537,Transportes Pacífico SAS,Retail,Tampico,TAM,MX,Estándar,2023-02-06
+C00538,Industrias Global SAPI,Electrónica,CDMX,CDMX,MX,Premium,2023-07-06
+C00539,Distribuidora Centro SRL,Electrónica,Veracruz,VER,MX,Estándar,2023-04-22
+C00540,Transportes Del Norte SAPI,Retail,Veracruz,VER,MX,Básico,2025-07-15
+C00541,Servicios Del Norte SA de CV,Alimentos,San Luis Potosí,SLP,MX,Estándar,2026-01-26
+C00542,Industrias Fénix SAPI,Farmacéutica,Hermosillo,SON,MX,Básico,2023-08-08
+C00543,Almacenes Express SRL,Manufactura,Chihuahua,CHH,MX,Estándar,2024-03-17
+C00544,Almacenes Centro SAPI,Electrónica,Guadalajara,JAL,MX,Básico,2023-09-10
+C00545,Almacenes Global SAPI,Alimentos,Guadalajara,JAL,MX,Estándar,2025-06-05
+C00546,Logística Fénix SRL,Construcción,Puebla,PUE,MX,Estándar,2023-08-01
+C00547,Logística Oriente SRL,Electrónica,Mérida,YUC,MX,Premium,2024-07-14
+C00548,Industrias Global SRL,Farmacéutica,Puebla,PUE,MX,Básico,2025-04-25
+C00549,Comercializadora Integral SRL,Manufactura,San Luis Potosí,SLP,MX,Estándar,2024-12-08
+C00550,Logística Global SRL,Construcción,Morelia,MICH,MX,Premium,2025-09-10
+C00551,Grupo Pacífico SAPI,Retail,Villahermosa,TAB,MX,Estándar,2023-08-07
+C00552,Comercializadora Sigma SRL,Alimentos,Tijuana,BCN,MX,Premium,2024-06-30
+C00553,Grupo Oriente SAS,Manufactura,San Luis Potosí,SLP,MX,Estándar,2024-02-22
+C00554,Logística Express SRL,Retail,Morelia,MICH,MX,Premium,2024-04-04
+C00555,Servicios Global SA de CV,Retail,Chihuahua,CHH,MX,Estándar,2025-05-03
+C00556,Distribuidora Oriente SAPI,Farmacéutica,Tijuana,BCN,MX,Básico,2025-06-26
+C00557,Comercializadora Integral SA de CV,Construcción,León,GTO,MX,Básico,2023-06-02
+C00558,Comercializadora Integral SRL,Retail,Toluca,MEX,MX,Básico,2024-06-25
+C00559,Comercializadora Oriente SA de CV,E-commerce,Puebla,PUE,MX,Estándar,2023-03-23
+C00560,Servicios Del Norte SRL,Farmacéutica,Culiacán,SIN,MX,Premium,2026-01-31
+C00561,Comercializadora Pacífico SAS,Manufactura,Villahermosa,TAB,MX,Básico,2023-05-20
+C00562,Servicios Oriente SRL,Farmacéutica,Tijuana,BCN,MX,Premium,2024-11-10
+C00563,Grupo Del Norte SRL,Electrónica,Villahermosa,TAB,MX,Básico,2025-08-30
+C00564,Servicios Pacífico SA de CV,Construcción,Mérida,YUC,MX,Básico,2023-03-23
+C00565,Servicios Global SAS,Electrónica,San Luis Potosí,SLP,MX,Básico,2023-02-20
+C00566,Transportes Del Norte SAPI,Retail,Tijuana,BCN,MX,Estándar,2024-10-18
+C00567,Logística Del Norte SAPI,Construcción,Tijuana,BCN,MX,Estándar,2024-03-12
+C00568,Grupo Centro SRL,Retail,Monterrey,NL,MX,Básico,2023-11-11
+C00569,Industrias Global SA de CV,Farmacéutica,Guadalajara,JAL,MX,Premium,2023-12-31
+C00570,Almacenes Pacífico SAS,Automotriz,Hermosillo,SON,MX,Básico,2025-03-05
+C00571,Grupo Fénix SA de CV,Retail,Querétaro,QRO,MX,Estándar,2025-12-31
+C00572,Transportes Sigma SRL,Manufactura,Monterrey,NL,MX,Básico,2025-01-02
+C00573,Logística Azteca SAS,Alimentos,Cancún,ROO,MX,Estándar,2025-02-20
+C00574,Industrias Integral SRL,Automotriz,Puebla,PUE,MX,Premium,2025-03-11
+C00575,Transportes Azteca SA de CV,Construcción,CDMX,CDMX,MX,Estándar,2023-10-17
+C00576,Distribuidora Oriente SAPI,Construcción,Monterrey,NL,MX,Premium,2024-09-16
+C00577,Comercializadora Integral SAPI,E-commerce,Villahermosa,TAB,MX,Básico,2023-10-19
+C00578,Almacenes Global SA de CV,E-commerce,León,GTO,MX,Estándar,2023-04-22
+C00579,Distribuidora Fénix SAS,Automotriz,Toluca,MEX,MX,Estándar,2023-07-21
+C00580,Industrias Fénix SA de CV,Farmacéutica,Mérida,YUC,MX,Básico,2023-07-24
+C00581,Industrias Fénix SAPI,Automotriz,Cancún,ROO,MX,Premium,2024-11-03
+C00582,Grupo Oriente SAPI,Farmacéutica,Hermosillo,SON,MX,Estándar,2023-12-12
+C00583,Servicios Integral SRL,Electrónica,Hermosillo,SON,MX,Estándar,2024-07-20
+C00584,Almacenes Global SA de CV,Alimentos,Veracruz,VER,MX,Estándar,2024-09-17
+C00585,Comercializadora Global SAPI,E-commerce,Monterrey,NL,MX,Estándar,2024-07-28
+C00586,Grupo Global SA de CV,Construcción,Monterrey,NL,MX,Estándar,2023-06-04
+C00587,Industrias Global SAS,Alimentos,Tijuana,BCN,MX,Estándar,2023-03-17
+C00588,Comercializadora Centro SA de CV,Construcción,Mérida,YUC,MX,Estándar,2024-08-18
+C00589,Comercializadora Global SAPI,Electrónica,CDMX,CDMX,MX,Básico,2024-05-04
+C00590,Almacenes Oriente SA de CV,Farmacéutica,Culiacán,SIN,MX,Estándar,2023-10-27
+C00591,Industrias Oriente SAPI,Retail,Mérida,YUC,MX,Estándar,2023-05-09
+C00592,Logística Centro SAS,Retail,Villahermosa,TAB,MX,Básico,2025-01-09
+C00593,Industrias Sigma SAPI,Construcción,Aguascalientes,AGS,MX,Estándar,2023-07-31
+C00594,Industrias Pacífico SAPI,Construcción,Veracruz,VER,MX,Estándar,2023-06-09
+C00595,Almacenes Fénix SA de CV,Alimentos,Veracruz,VER,MX,Estándar,2025-09-24
+C00596,Industrias Express SAPI,Alimentos,Mérida,YUC,MX,Básico,2023-06-07
+C00597,Logística Oriente SA de CV,Electrónica,Querétaro,QRO,MX,Estándar,2024-04-16
+C00598,Comercializadora Pacífico SA de CV,Farmacéutica,Tampico,TAM,MX,Básico,2024-03-07
+C00599,Comercializadora Global SA de CV,Alimentos,Culiacán,SIN,MX,Básico,2023-11-26
+C00600,Logística Fénix SA de CV,E-commerce,Toluca,MEX,MX,Premium,2024-01-04
+C00601,Almacenes Centro SAPI,Farmacéutica,Tijuana,BCN,MX,Premium,2025-07-08
+C00602,Industrias Integral SRL,Electrónica,Puebla,PUE,MX,Estándar,2024-01-08
+C00603,Logística Pacífico SAPI,Manufactura,Monterrey,NL,MX,Básico,2024-04-15
+C00604,Logística Integral SA de CV,Alimentos,Villahermosa,TAB,MX,Estándar,2025-10-29
+C00605,Transportes Del Norte SAS,Alimentos,Guadalajara,JAL,MX,Premium,2025-12-24
+C00606,Logística Global SAS,Automotriz,Morelia,MICH,MX,Premium,2023-01-03
+C00607,Distribuidora Centro SAS,Automotriz,Villahermosa,TAB,MX,Estándar,2025-05-28
+C00608,Logística Integral SRL,Electrónica,Culiacán,SIN,MX,Estándar,2023-07-20
+C00609,Logística Sigma SAPI,Retail,Monterrey,NL,MX,Estándar,2024-08-03
+C00610,Transportes Global SA de CV,Construcción,CDMX,CDMX,MX,Estándar,2025-12-06
+C00611,Servicios Del Norte SAPI,Construcción,Aguascalientes,AGS,MX,Estándar,2025-04-17
+C00612,Logística Fénix SRL,E-commerce,Toluca,MEX,MX,Premium,2024-06-19
+C00613,Logística Global SAS,Alimentos,Chihuahua,CHH,MX,Estándar,2024-02-22
+C00614,Industrias Sigma SRL,Construcción,Morelia,MICH,MX,Estándar,2025-09-17
+C00615,Almacenes Integral SA de CV,Farmacéutica,Querétaro,QRO,MX,Estándar,2024-04-15
+C00616,Grupo Integral SAS,Retail,Aguascalientes,AGS,MX,Premium,2026-02-01
+C00617,Logística Del Norte SA de CV,E-commerce,Puebla,PUE,MX,Básico,2025-08-23
+C00618,Logística Pacífico SRL,Retail,Monterrey,NL,MX,Premium,2023-03-19
+C00619,Almacenes Azteca SAPI,E-commerce,León,GTO,MX,Básico,2025-10-09
+C00620,Distribuidora Fénix SAPI,Retail,Villahermosa,TAB,MX,Estándar,2025-11-22
+C00621,Transportes Sigma SAS,Automotriz,CDMX,CDMX,MX,Estándar,2023-11-19
+C00622,Grupo Del Norte SA de CV,E-commerce,Chihuahua,CHH,MX,Estándar,2024-02-15
+C00623,Servicios Sigma SAPI,Farmacéutica,Morelia,MICH,MX,Estándar,2024-12-13
+C00624,Industrias Integral SAS,Manufactura,Chihuahua,CHH,MX,Estándar,2023-01-10
+C00625,Servicios Del Norte SRL,E-commerce,Villahermosa,TAB,MX,Estándar,2024-08-25
+C00626,Distribuidora Oriente SAS,Electrónica,Chihuahua,CHH,MX,Premium,2025-09-17
+C00627,Transportes Sigma SA de CV,Construcción,CDMX,CDMX,MX,Estándar,2025-09-14
+C00628,Servicios Pacífico SRL,Retail,Mérida,YUC,MX,Estándar,2024-04-15
+C00629,Industrias Del Norte SAS,Automotriz,Toluca,MEX,MX,Básico,2024-05-23
+C00630,Servicios Oriente SAPI,E-commerce,León,GTO,MX,Básico,2025-09-02
+C00631,Distribuidora Express SAPI,E-commerce,Tijuana,BCN,MX,Básico,2025-10-18
+C00632,Servicios Integral SA de CV,Manufactura,Tijuana,BCN,MX,Premium,2024-05-26
+C00633,Grupo Centro SRL,Automotriz,Tampico,TAM,MX,Estándar,2023-01-14
+C00634,Almacenes Integral SRL,Construcción,Culiacán,SIN,MX,Básico,2024-07-16
+C00635,Grupo Global SAS,Electrónica,Culiacán,SIN,MX,Premium,2023-09-20
+C00636,Servicios Pacífico SAPI,Electrónica,Guadalajara,JAL,MX,Premium,2025-10-26
+C00637,Servicios Azteca SA de CV,Farmacéutica,Villahermosa,TAB,MX,Estándar,2025-07-31
+C00638,Servicios Fénix SRL,Alimentos,Querétaro,QRO,MX,Estándar,2024-10-28
+C00639,Almacenes Fénix SRL,Automotriz,Mérida,YUC,MX,Básico,2024-07-05
+C00640,Logística Oriente SRL,Construcción,Hermosillo,SON,MX,Básico,2024-03-07
+C00641,Distribuidora Del Norte SRL,Farmacéutica,León,GTO,MX,Estándar,2023-09-26
+C00642,Comercializadora Integral SAS,Retail,Chihuahua,CHH,MX,Básico,2024-02-06
+C00643,Servicios Centro SRL,E-commerce,Tampico,TAM,MX,Estándar,2023-10-03
+C00644,Logística Del Norte SAPI,Retail,Culiacán,SIN,MX,Básico,2023-04-08
+C00645,Transportes Centro SRL,E-commerce,Toluca,MEX,MX,Estándar,2025-09-02
+C00646,Servicios Azteca SAS,Manufactura,Morelia,MICH,MX,Estándar,2024-06-11
+C00647,Comercializadora Sigma SRL,Automotriz,Tijuana,BCN,MX,Estándar,2026-01-07
+C00648,Transportes Pacífico SRL,Electrónica,Tampico,TAM,MX,Estándar,2025-07-04
+C00649,Servicios Pacífico SAS,Manufactura,Puebla,PUE,MX,Básico,2023-12-10
+C00650,Servicios Oriente SRL,E-commerce,Aguascalientes,AGS,MX,Estándar,2024-04-12
+C00651,Almacenes Oriente SAS,Construcción,Chihuahua,CHH,MX,Básico,2024-07-09
+C00652,Distribuidora Sigma SA de CV,Farmacéutica,CDMX,CDMX,MX,Básico,2023-09-14
+C00653,Transportes Centro SA de CV,Retail,Querétaro,QRO,MX,Estándar,2023-07-15
+C00654,Transportes Sigma SAPI,Manufactura,Villahermosa,TAB,MX,Estándar,2023-06-20
+C00655,Distribuidora Express SRL,Electrónica,Chihuahua,CHH,MX,Estándar,2024-09-25
+C00656,Comercializadora Azteca SA de CV,Automotriz,Puebla,PUE,MX,Premium,2025-12-14
+C00657,Almacenes Global SRL,Electrónica,Aguascalientes,AGS,MX,Básico,2025-09-02
+C00658,Almacenes Fénix SAS,E-commerce,Morelia,MICH,MX,Premium,2023-12-29
+C00659,Distribuidora Del Norte SAS,E-commerce,Tampico,TAM,MX,Estándar,2026-01-10
+C00660,Industrias Azteca SA de CV,Alimentos,Toluca,MEX,MX,Básico,2023-11-15
+C00661,Grupo Centro SAS,E-commerce,Tampico,TAM,MX,Básico,2025-12-31
+C00662,Distribuidora Azteca SRL,Farmacéutica,Hermosillo,SON,MX,Estándar,2024-08-22
+C00663,Logística Express SAPI,Construcción,Morelia,MICH,MX,Premium,2025-06-14
+C00664,Transportes Pacífico SAPI,E-commerce,Mérida,YUC,MX,Básico,2024-06-22
+C00665,Logística Express SA de CV,Alimentos,Morelia,MICH,MX,Básico,2024-07-04
+C00666,Almacenes Sigma SAS,Farmacéutica,Querétaro,QRO,MX,Básico,2025-07-21
+C00667,Grupo Integral SA de CV,E-commerce,Puebla,PUE,MX,Básico,2023-04-12
+C00668,Distribuidora Del Norte SAPI,Retail,Cancún,ROO,MX,Estándar,2023-01-17
+C00669,Industrias Centro SRL,Electrónica,Aguascalientes,AGS,MX,Estándar,2025-05-10
+C00670,Transportes Integral SA de CV,E-commerce,Guadalajara,JAL,MX,Estándar,2024-11-07
+C00671,Almacenes Integral SAPI,E-commerce,Monterrey,NL,MX,Premium,2026-01-17
+C00672,Distribuidora Pacífico SAS,Farmacéutica,CDMX,CDMX,MX,Estándar,2023-09-07
+C00673,Almacenes Del Norte SAPI,Electrónica,Guadalajara,JAL,MX,Estándar,2024-02-12
+C00674,Comercializadora Azteca SA de CV,E-commerce,San Luis Potosí,SLP,MX,Estándar,2024-10-23
+C00675,Servicios Azteca SAPI,Manufactura,San Luis Potosí,SLP,MX,Básico,2024-02-11
+C00676,Grupo Integral SRL,Manufactura,Hermosillo,SON,MX,Estándar,2024-10-26
+C00677,Grupo Fénix SAS,Alimentos,Mérida,YUC,MX,Estándar,2023-01-19
+C00678,Comercializadora Centro SA de CV,Automotriz,Monterrey,NL,MX,Premium,2024-05-24
+C00679,Servicios Integral SA de CV,Alimentos,Guadalajara,JAL,MX,Estándar,2023-05-03
+C00680,Almacenes Express SA de CV,Construcción,Aguascalientes,AGS,MX,Estándar,2024-12-12
+C00681,Grupo Centro SAS,E-commerce,Puebla,PUE,MX,Estándar,2024-05-28
+C00682,Comercializadora Global SRL,Automotriz,Tampico,TAM,MX,Estándar,2024-01-24
+C00683,Transportes Global SAPI,Electrónica,Toluca,MEX,MX,Básico,2023-11-25
+C00684,Servicios Centro SA de CV,Construcción,Toluca,MEX,MX,Estándar,2026-01-14
+C00685,Distribuidora Oriente SA de CV,Construcción,CDMX,CDMX,MX,Básico,2025-01-15
+C00686,Industrias Oriente SAS,Automotriz,Tampico,TAM,MX,Básico,2023-11-12
+C00687,Grupo Integral SAPI,Retail,Villahermosa,TAB,MX,Básico,2023-05-17
+C00688,Transportes Azteca SAS,Electrónica,Tampico,TAM,MX,Estándar,2024-01-28
+C00689,Grupo Oriente SAPI,Manufactura,Culiacán,SIN,MX,Básico,2024-06-08
+C00690,Transportes Centro SA de CV,Automotriz,Tijuana,BCN,MX,Estándar,2025-10-03
+C00691,Grupo Fénix SRL,Retail,Hermosillo,SON,MX,Estándar,2025-01-25
+C00692,Distribuidora Global SA de CV,Manufactura,San Luis Potosí,SLP,MX,Estándar,2023-06-09
+C00693,Distribuidora Express SAPI,Alimentos,Morelia,MICH,MX,Estándar,2025-02-28
+C00694,Transportes Fénix SRL,Electrónica,Morelia,MICH,MX,Estándar,2025-04-30
+C00695,Comercializadora Integral SAS,Automotriz,Hermosillo,SON,MX,Estándar,2023-08-02
+C00696,Servicios Oriente SRL,Automotriz,Morelia,MICH,MX,Estándar,2025-06-26
+C00697,Distribuidora Fénix SAPI,Construcción,Hermosillo,SON,MX,Estándar,2024-10-24
+C00698,Almacenes Centro SAS,Retail,Toluca,MEX,MX,Estándar,2025-01-07
+C00699,Comercializadora Sigma SA de CV,E-commerce,San Luis Potosí,SLP,MX,Premium,2023-02-03
+C00700,Grupo Sigma SAPI,Manufactura,Tijuana,BCN,MX,Básico,2024-10-06
+C00701,Comercializadora Sigma SRL,Farmacéutica,Veracruz,VER,MX,Básico,2023-11-16
+C00702,Logística Fénix SAPI,Manufactura,San Luis Potosí,SLP,MX,Estándar,2023-07-08
+C00703,Almacenes Fénix SA de CV,E-commerce,Tampico,TAM,MX,Básico,2023-12-21
+C00704,Transportes Azteca SRL,Automotriz,Culiacán,SIN,MX,Premium,2025-02-20
+C00705,Transportes Express SA de CV,Construcción,Hermosillo,SON,MX,Básico,2025-05-03
+C00706,Servicios Global SAPI,Automotriz,Villahermosa,TAB,MX,Estándar,2023-03-26
+C00707,Grupo Pacífico SAS,Manufactura,Mérida,YUC,MX,Básico,2023-11-10
+C00708,Comercializadora Integral SRL,Manufactura,San Luis Potosí,SLP,MX,Estándar,2025-03-18
+C00709,Logística Sigma SA de CV,Construcción,Guadalajara,JAL,MX,Estándar,2026-01-27
+C00710,Almacenes Global SAPI,Electrónica,Puebla,PUE,MX,Estándar,2023-10-04
+C00711,Distribuidora Express SA de CV,E-commerce,Culiacán,SIN,MX,Estándar,2024-02-06
+C00712,Transportes Pacífico SAS,Automotriz,Aguascalientes,AGS,MX,Básico,2023-07-03
+C00713,Grupo Sigma SAPI,Automotriz,Aguascalientes,AGS,MX,Estándar,2024-12-06
+C00714,Almacenes Azteca SAPI,Farmacéutica,Cancún,ROO,MX,Estándar,2023-10-26
+C00715,Transportes Azteca SAPI,Alimentos,Puebla,PUE,MX,Premium,2023-06-25
+C00716,Servicios Del Norte SRL,Electrónica,San Luis Potosí,SLP,MX,Estándar,2023-01-29
+C00717,Distribuidora Express SRL,Electrónica,Aguascalientes,AGS,MX,Estándar,2024-03-04
+C00718,Logística Fénix SA de CV,E-commerce,Puebla,PUE,MX,Básico,2023-02-07
+C00719,Industrias Azteca SAS,Retail,San Luis Potosí,SLP,MX,Básico,2024-02-16
+C00720,Transportes Azteca SRL,Construcción,Toluca,MEX,MX,Básico,2025-01-07
+C00721,Transportes Oriente SAS,Manufactura,Chihuahua,CHH,MX,Básico,2025-11-07
+C00722,Grupo Azteca SAPI,E-commerce,Villahermosa,TAB,MX,Básico,2025-07-26
+C00723,Grupo Oriente SRL,Automotriz,Chihuahua,CHH,MX,Estándar,2023-11-18
+C00724,Industrias Azteca SRL,Construcción,Mérida,YUC,MX,Premium,2025-10-23
+C00725,Distribuidora Integral SRL,Construcción,CDMX,CDMX,MX,Estándar,2024-07-27
+C00726,Distribuidora Pacífico SAPI,Alimentos,Monterrey,NL,MX,Estándar,2025-02-21
+C00727,Almacenes Global SAPI,Farmacéutica,San Luis Potosí,SLP,MX,Estándar,2024-11-05
+C00728,Distribuidora Integral SRL,Alimentos,Culiacán,SIN,MX,Estándar,2026-01-13
+C00729,Servicios Del Norte SA de CV,Alimentos,Puebla,PUE,MX,Básico,2023-11-20
+C00730,Servicios Pacífico SAS,E-commerce,Puebla,PUE,MX,Estándar,2023-03-02
+C00731,Distribuidora Del Norte SAPI,Alimentos,Toluca,MEX,MX,Básico,2023-11-08
+C00732,Distribuidora Express SA de CV,Automotriz,Toluca,MEX,MX,Básico,2024-04-17
+C00733,Almacenes Oriente SAPI,Construcción,Tampico,TAM,MX,Estándar,2023-10-02
+C00734,Distribuidora Express SA de CV,Construcción,Puebla,PUE,MX,Estándar,2023-12-02
+C00735,Logística Express SAPI,Farmacéutica,CDMX,CDMX,MX,Básico,2024-07-06
+C00736,Servicios Centro SAPI,Construcción,Cancún,ROO,MX,Estándar,2025-09-30
+C00737,Servicios Pacífico SA de CV,Manufactura,Guadalajara,JAL,MX,Estándar,2025-02-18
+C00738,Logística Azteca SAS,Retail,Guadalajara,JAL,MX,Básico,2024-05-18
+C00739,Industrias Sigma SAS,Alimentos,Cancún,ROO,MX,Estándar,2025-03-26
+C00740,Comercializadora Centro SAS,Manufactura,Guadalajara,JAL,MX,Estándar,2025-11-24
+C00741,Comercializadora Pacífico SAS,Automotriz,Querétaro,QRO,MX,Estándar,2024-01-04
+C00742,Distribuidora Centro SA de CV,E-commerce,León,GTO,MX,Básico,2025-07-18
+C00743,Transportes Del Norte SAS,Automotriz,León,GTO,MX,Básico,2023-09-11
+C00744,Comercializadora Pacífico SAS,Retail,Chihuahua,CHH,MX,Estándar,2025-11-13
+C00745,Comercializadora Integral SAPI,Retail,Aguascalientes,AGS,MX,Estándar,2023-11-04
+C00746,Industrias Integral SA de CV,Alimentos,San Luis Potosí,SLP,MX,Premium,2025-07-02
+C00747,Grupo Centro SAS,Electrónica,CDMX,CDMX,MX,Estándar,2024-06-02
+C00748,Distribuidora Express SAS,Electrónica,CDMX,CDMX,MX,Estándar,2025-10-07
+C00749,Distribuidora Global SRL,Farmacéutica,Monterrey,NL,MX,Básico,2023-01-14
+C00750,Servicios Azteca SAPI,Retail,Puebla,PUE,MX,Estándar,2023-04-23
+C00751,Transportes Azteca SA de CV,Construcción,San Luis Potosí,SLP,MX,Premium,2024-11-09
+C00752,Comercializadora Centro SRL,Retail,León,GTO,MX,Básico,2024-08-05
+C00753,Servicios Pacífico SA de CV,Construcción,San Luis Potosí,SLP,MX,Premium,2024-10-23
+C00754,Almacenes Integral SA de CV,E-commerce,Monterrey,NL,MX,Básico,2024-08-22
+C00755,Distribuidora Express SA de CV,Manufactura,Hermosillo,SON,MX,Estándar,2025-12-10
+C00756,Almacenes Fénix SRL,Construcción,Villahermosa,TAB,MX,Estándar,2023-06-29
+C00757,Servicios Integral SAS,Electrónica,Aguascalientes,AGS,MX,Estándar,2024-06-15
+C00758,Industrias Express SA de CV,Manufactura,León,GTO,MX,Básico,2024-04-21
+C00759,Logística Pacífico SA de CV,Automotriz,Querétaro,QRO,MX,Básico,2024-02-29
+C00760,Distribuidora Sigma SRL,Manufactura,Tijuana,BCN,MX,Básico,2023-01-24
+C00761,Servicios Azteca SA de CV,Automotriz,Villahermosa,TAB,MX,Básico,2026-01-31
+C00762,Comercializadora Express SRL,Automotriz,Culiacán,SIN,MX,Premium,2023-03-01
+C00763,Grupo Integral SAS,Alimentos,Tampico,TAM,MX,Estándar,2025-08-29
+C00764,Almacenes Pacífico SA de CV,E-commerce,Morelia,MICH,MX,Estándar,2024-11-17
+C00765,Grupo Express SRL,Automotriz,Aguascalientes,AGS,MX,Básico,2026-01-02
+C00766,Grupo Oriente SAS,Alimentos,Puebla,PUE,MX,Estándar,2024-07-28
+C00767,Transportes Sigma SRL,Retail,Chihuahua,CHH,MX,Básico,2024-01-19
+C00768,Distribuidora Oriente SAS,E-commerce,Monterrey,NL,MX,Básico,2025-10-14
+C00769,Transportes Oriente SA de CV,Farmacéutica,San Luis Potosí,SLP,MX,Premium,2023-12-25
+C00770,Grupo Centro SAPI,Farmacéutica,Cancún,ROO,MX,Básico,2025-11-02
+C00771,Industrias Oriente SAPI,Manufactura,Tampico,TAM,MX,Premium,2025-12-08
+C00772,Distribuidora Azteca SAS,Construcción,Villahermosa,TAB,MX,Estándar,2023-09-29
+C00773,Grupo Sigma SA de CV,Manufactura,Villahermosa,TAB,MX,Básico,2023-08-26
+C00774,Industrias Azteca SRL,Farmacéutica,Guadalajara,JAL,MX,Básico,2023-07-31
+C00775,Industrias Global SRL,Electrónica,Tijuana,BCN,MX,Estándar,2024-08-09
+C00776,Comercializadora Sigma SA de CV,Retail,Toluca,MEX,MX,Premium,2023-11-02
+C00777,Transportes Express SRL,Automotriz,Morelia,MICH,MX,Básico,2025-11-18
+C00778,Comercializadora Del Norte SRL,Automotriz,San Luis Potosí,SLP,MX,Estándar,2024-05-16
+C00779,Grupo Centro SA de CV,Manufactura,Guadalajara,JAL,MX,Estándar,2023-09-24
+C00780,Logística Integral SAS,Automotriz,Monterrey,NL,MX,Básico,2025-05-23
+C00781,Transportes Centro SAPI,Manufactura,Tijuana,BCN,MX,Premium,2025-12-28
+C00782,Almacenes Sigma SAS,Electrónica,Cancún,ROO,MX,Básico,2023-07-19
+C00783,Industrias Oriente SAS,Alimentos,Mérida,YUC,MX,Estándar,2023-10-22
+C00784,Almacenes Centro SA de CV,Manufactura,Aguascalientes,AGS,MX,Estándar,2024-10-27
+C00785,Almacenes Integral SRL,Automotriz,Veracruz,VER,MX,Estándar,2025-09-07
+C00786,Transportes Pacífico SA de CV,Automotriz,Puebla,PUE,MX,Estándar,2025-11-06
+C00787,Almacenes Pacífico SAS,Farmacéutica,Monterrey,NL,MX,Estándar,2024-09-10
+C00788,Almacenes Pacífico SA de CV,Automotriz,Morelia,MICH,MX,Básico,2023-11-22
+C00789,Logística Fénix SRL,Farmacéutica,Culiacán,SIN,MX,Básico,2025-06-01
+C00790,Transportes Fénix SAS,Automotriz,Monterrey,NL,MX,Estándar,2025-09-23
+C00791,Industrias Pacífico SA de CV,Manufactura,Cancún,ROO,MX,Estándar,2023-12-27
+C00792,Almacenes Azteca SA de CV,Farmacéutica,Chihuahua,CHH,MX,Premium,2024-11-01
+C00793,Comercializadora Integral SAS,E-commerce,Culiacán,SIN,MX,Estándar,2023-01-01
+C00794,Distribuidora Express SRL,E-commerce,Culiacán,SIN,MX,Estándar,2025-07-04
+C00795,Servicios Del Norte SA de CV,Construcción,San Luis Potosí,SLP,MX,Premium,2025-06-09
+C00796,Servicios Global SA de CV,Retail,San Luis Potosí,SLP,MX,Estándar,2023-05-08
+C00797,Industrias Azteca SAPI,Construcción,Veracruz,VER,MX,Estándar,2023-08-13
+C00798,Logística Pacífico SAS,Construcción,Chihuahua,CHH,MX,Estándar,2024-10-13
+C00799,Comercializadora Express SAS,Automotriz,León,GTO,MX,Premium,2025-08-30
+C00800,Comercializadora Integral SA de CV,Manufactura,Puebla,PUE,MX,Estándar,2024-08-13
+C00801,Logística Integral SA de CV,Alimentos,Puebla,PUE,MX,Estándar,2025-09-23
+C00802,Logística Fénix SAPI,Electrónica,Hermosillo,SON,MX,Estándar,2025-07-22
+C00803,Logística Oriente SAPI,Alimentos,Morelia,MICH,MX,Estándar,2025-07-10
+C00804,Distribuidora Global SRL,Construcción,CDMX,CDMX,MX,Premium,2025-10-17
+C00805,Grupo Azteca SAS,Automotriz,Culiacán,SIN,MX,Básico,2025-01-21
+C00806,Comercializadora Global SRL,Electrónica,Tampico,TAM,MX,Estándar,2023-06-13
+C00807,Distribuidora Centro SA de CV,E-commerce,Villahermosa,TAB,MX,Estándar,2023-07-01
+C00808,Grupo Centro SAS,Electrónica,Aguascalientes,AGS,MX,Estándar,2025-12-31
+C00809,Servicios Sigma SRL,Alimentos,Aguascalientes,AGS,MX,Básico,2025-05-12
+C00810,Grupo Centro SAPI,Retail,San Luis Potosí,SLP,MX,Estándar,2024-06-17
+C00811,Industrias Centro SA de CV,Alimentos,San Luis Potosí,SLP,MX,Estándar,2023-02-25
+C00812,Comercializadora Fénix SRL,E-commerce,Toluca,MEX,MX,Premium,2024-05-31
+C00813,Comercializadora Fénix SAPI,Electrónica,CDMX,CDMX,MX,Estándar,2023-08-17
+C00814,Distribuidora Centro SAPI,Retail,León,GTO,MX,Básico,2024-06-19
+C00815,Comercializadora Centro SAS,Construcción,Monterrey,NL,MX,Básico,2023-10-25
+C00816,Distribuidora Fénix SRL,Retail,Cancún,ROO,MX,Estándar,2023-12-09
+C00817,Comercializadora Centro SAS,Electrónica,Querétaro,QRO,MX,Básico,2023-04-18
+C00818,Logística Pacífico SAS,E-commerce,Morelia,MICH,MX,Básico,2024-04-23
+C00819,Industrias Centro SAS,Automotriz,Hermosillo,SON,MX,Premium,2023-01-25
+C00820,Servicios Pacífico SRL,Automotriz,Guadalajara,JAL,MX,Básico,2023-07-19
+C00821,Logística Centro SAPI,Farmacéutica,Querétaro,QRO,MX,Estándar,2024-06-06
+C00822,Grupo Azteca SA de CV,Retail,León,GTO,MX,Estándar,2024-10-03
+C00823,Almacenes Oriente SAPI,E-commerce,Villahermosa,TAB,MX,Básico,2023-08-01
+C00824,Transportes Azteca SAPI,Manufactura,Guadalajara,JAL,MX,Estándar,2023-02-18
+C00825,Comercializadora Pacífico SAPI,Manufactura,Querétaro,QRO,MX,Estándar,2023-06-26
+C00826,Almacenes Del Norte SAS,E-commerce,Toluca,MEX,MX,Estándar,2024-08-26
+C00827,Comercializadora Del Norte SRL,Retail,Aguascalientes,AGS,MX,Estándar,2024-06-11
+C00828,Industrias Sigma SAPI,Electrónica,Aguascalientes,AGS,MX,Básico,2023-05-04
+C00829,Comercializadora Centro SA de CV,Alimentos,Tijuana,BCN,MX,Estándar,2025-03-15
+C00830,Transportes Centro SRL,Manufactura,Hermosillo,SON,MX,Básico,2024-03-23
+C00831,Almacenes Azteca SAS,Alimentos,Monterrey,NL,MX,Estándar,2024-05-28
+C00832,Logística Sigma SAPI,Automotriz,CDMX,CDMX,MX,Premium,2023-03-19
+C00833,Almacenes Centro SAS,Construcción,Culiacán,SIN,MX,Premium,2023-01-08
+C00834,Distribuidora Azteca SAS,Electrónica,Monterrey,NL,MX,Básico,2026-01-11
+C00835,Servicios Sigma SAS,Retail,Morelia,MICH,MX,Estándar,2025-01-05
+C00836,Servicios Del Norte SAS,E-commerce,Monterrey,NL,MX,Estándar,2025-01-18
+C00837,Logística Express SRL,Construcción,León,GTO,MX,Premium,2023-03-22
+C00838,Transportes Centro SAPI,Alimentos,Veracruz,VER,MX,Básico,2025-09-23
+C00839,Almacenes Pacífico SA de CV,E-commerce,CDMX,CDMX,MX,Estándar,2024-05-03
+C00840,Grupo Oriente SA de CV,Automotriz,Cancún,ROO,MX,Estándar,2023-02-03
+C00841,Transportes Express SAS,Alimentos,Guadalajara,JAL,MX,Estándar,2025-04-10
+C00842,Grupo Integral SAS,Retail,Mérida,YUC,MX,Estándar,2023-05-28
+C00843,Comercializadora Azteca SAPI,Retail,Guadalajara,JAL,MX,Premium,2024-05-12
+C00844,Comercializadora Fénix SA de CV,Manufactura,Querétaro,QRO,MX,Básico,2025-07-23
+C00845,Distribuidora Pacífico SRL,Construcción,Mérida,YUC,MX,Básico,2023-05-10
+C00846,Comercializadora Oriente SAPI,Retail,Culiacán,SIN,MX,Estándar,2026-01-22
+C00847,Transportes Sigma SAPI,Construcción,Aguascalientes,AGS,MX,Básico,2023-05-10
+C00848,Almacenes Express SA de CV,Alimentos,Veracruz,VER,MX,Básico,2023-12-04
+C00849,Grupo Centro SA de CV,Retail,Chihuahua,CHH,MX,Básico,2023-11-20
+C00850,Logística Centro SAPI,Farmacéutica,Monterrey,NL,MX,Básico,2024-08-04
+C00851,Almacenes Pacífico SAPI,Alimentos,Toluca,MEX,MX,Estándar,2025-12-07
+C00852,Almacenes Fénix SA de CV,E-commerce,Guadalajara,JAL,MX,Básico,2024-01-04
+C00853,Distribuidora Del Norte SA de CV,Automotriz,CDMX,CDMX,MX,Premium,2024-04-27
+C00854,Distribuidora Centro SAPI,E-commerce,Morelia,MICH,MX,Básico,2025-11-05
+C00855,Almacenes Centro SAPI,Alimentos,Querétaro,QRO,MX,Estándar,2023-11-02
+C00856,Servicios Sigma SAPI,Construcción,Guadalajara,JAL,MX,Básico,2023-04-21
+C00857,Transportes Azteca SAPI,Alimentos,Cancún,ROO,MX,Estándar,2023-03-30
+C00858,Transportes Del Norte SAPI,Electrónica,Tampico,TAM,MX,Estándar,2025-11-20
+C00859,Distribuidora Oriente SAPI,Manufactura,Aguascalientes,AGS,MX,Básico,2025-05-08
+C00860,Logística Express SAS,Farmacéutica,Querétaro,QRO,MX,Básico,2024-04-30
+C00861,Grupo Pacífico SAPI,Farmacéutica,Culiacán,SIN,MX,Premium,2025-09-19
+C00862,Logística Oriente SAPI,Electrónica,Cancún,ROO,MX,Estándar,2023-12-31
+C00863,Distribuidora Oriente SAPI,Retail,Veracruz,VER,MX,Estándar,2024-07-06
+C00864,Comercializadora Del Norte SAS,Electrónica,Guadalajara,JAL,MX,Estándar,2024-07-28
+C00865,Industrias Fénix SAPI,Alimentos,Aguascalientes,AGS,MX,Estándar,2024-03-26
+C00866,Transportes Pacífico SAS,Farmacéutica,Morelia,MICH,MX,Estándar,2024-04-15
+C00867,Grupo Pacífico SAPI,Farmacéutica,Cancún,ROO,MX,Básico,2024-07-25
+C00868,Comercializadora Fénix SA de CV,Construcción,Culiacán,SIN,MX,Premium,2024-03-31
+C00869,Grupo Pacífico SAS,Electrónica,Guadalajara,JAL,MX,Premium,2025-08-21
+C00870,Almacenes Express SA de CV,Retail,Querétaro,QRO,MX,Estándar,2025-07-15
+C00871,Comercializadora Oriente SRL,Farmacéutica,Hermosillo,SON,MX,Estándar,2024-03-22
+C00872,Almacenes Sigma SAPI,Electrónica,Monterrey,NL,MX,Premium,2023-02-02
+C00873,Almacenes Centro SAPI,Construcción,Culiacán,SIN,MX,Básico,2023-02-19
+C00874,Grupo Del Norte SAS,Automotriz,Veracruz,VER,MX,Estándar,2025-08-08
+C00875,Industrias Fénix SAPI,Manufactura,San Luis Potosí,SLP,MX,Estándar,2025-05-22
+C00876,Servicios Azteca SA de CV,Construcción,Aguascalientes,AGS,MX,Estándar,2023-04-23
+C00877,Servicios Integral SA de CV,Farmacéutica,Guadalajara,JAL,MX,Básico,2025-01-18
+C00878,Transportes Centro SAPI,Farmacéutica,Aguascalientes,AGS,MX,Básico,2024-05-03
+C00879,Logística Sigma SA de CV,Manufactura,Toluca,MEX,MX,Estándar,2025-10-28
+C00880,Transportes Centro SRL,Electrónica,Cancún,ROO,MX,Estándar,2025-09-22
+C00881,Almacenes Del Norte SA de CV,Construcción,Monterrey,NL,MX,Premium,2024-01-21
+C00882,Transportes Integral SRL,Manufactura,San Luis Potosí,SLP,MX,Estándar,2023-06-07
+C00883,Distribuidora Global SA de CV,E-commerce,Tampico,TAM,MX,Estándar,2023-11-05
+C00884,Almacenes Oriente SAS,Electrónica,Morelia,MICH,MX,Estándar,2023-09-28
+C00885,Distribuidora Del Norte SA de CV,Farmacéutica,CDMX,CDMX,MX,Premium,2024-08-20
+C00886,Logística Fénix SRL,Automotriz,Villahermosa,TAB,MX,Estándar,2024-11-18
+C00887,Almacenes Centro SRL,Alimentos,Villahermosa,TAB,MX,Premium,2026-01-28
+C00888,Industrias Express SAS,Automotriz,San Luis Potosí,SLP,MX,Premium,2023-12-18
+C00889,Servicios Sigma SAS,Alimentos,Guadalajara,JAL,MX,Estándar,2023-10-31
+C00890,Industrias Integral SAPI,Alimentos,León,GTO,MX,Básico,2026-01-01
+C00891,Servicios Fénix SAPI,Electrónica,Querétaro,QRO,MX,Básico,2023-03-26
+C00892,Grupo Oriente SRL,Alimentos,León,GTO,MX,Estándar,2024-02-25
+C00893,Industrias Del Norte SA de CV,Construcción,Morelia,MICH,MX,Premium,2023-11-29
+C00894,Servicios Integral SA de CV,Automotriz,Puebla,PUE,MX,Estándar,2025-07-27
+C00895,Industrias Fénix SAPI,Electrónica,San Luis Potosí,SLP,MX,Básico,2025-08-28
+C00896,Grupo Integral SA de CV,E-commerce,Querétaro,QRO,MX,Básico,2025-09-07
+C00897,Servicios Del Norte SRL,Retail,Mérida,YUC,MX,Estándar,2025-07-02
+C00898,Distribuidora Sigma SAPI,Retail,Tijuana,BCN,MX,Básico,2025-12-14
+C00899,Logística Express SAS,Automotriz,Cancún,ROO,MX,Estándar,2023-06-28
+C00900,Servicios Pacífico SAPI,Construcción,Villahermosa,TAB,MX,Estándar,2023-04-25

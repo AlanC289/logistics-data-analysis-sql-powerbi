@@ -1,0 +1,251 @@
+driver_id,full_name,vehicle_type,hub_city,hub_state,hire_date,status
+D00001,Daniel Cruz Cruz,Tractocamión,Veracruz,VER,2018-02-19,Activo
+D00002,Sofía Mendoza Navarro,Caja seca,Morelia,MICH,2018-12-25,Activo
+D00003,Ana Silva Reyes,Camión 3.5T,Hermosillo,SON,2022-08-24,Activo
+D00004,Ricardo Martínez Silva,Caja seca,Tampico,TAM,2023-11-22,Activo
+D00005,Pedro Navarro Pérez,Van,Hermosillo,SON,2025-03-01,En descanso
+D00006,María Ortega Torres,Van,Puebla,PUE,2020-03-27,Activo
+D00007,Daniel Castillo Morales,Caja seca,San Luis Potosí,SLP,2024-07-25,Activo
+D00008,Pedro Torres Castillo,Camión 3.5T,CDMX,CDMX,2019-09-23,Activo
+D00009,María Castillo Ramírez,Camión 3.5T,San Luis Potosí,SLP,2022-09-05,En descanso
+D00010,Patricia Cruz Silva,Van,Tampico,TAM,2018-10-01,Activo
+D00011,Raúl López Cruz,Van,Toluca,MEX,2025-01-16,Activo
+D00012,Erika García González,Tractocamión,Toluca,MEX,2019-10-30,En descanso
+D00013,María García Flores,Tractocamión,Puebla,PUE,2022-01-03,Activo
+D00014,Daniel Torres Rojas,Camioneta,Veracruz,VER,2018-07-19,Activo
+D00015,María López Reyes,Caja seca,Tijuana,BCN,2025-01-16,Activo
+D00016,Daniel Flores Cruz,Camión 3.5T,Aguascalientes,AGS,2025-09-06,Activo
+D00017,Ana Rojas Torres,Tractocamión,Puebla,PUE,2018-02-22,Activo
+D00018,Miguel Sánchez González,Van,Aguascalientes,AGS,2019-10-30,En descanso
+D00019,Gustavo Morales Morales,Camioneta,Morelia,MICH,2024-11-17,En descanso
+D00020,Jorge López González,Refrigerado,Hermosillo,SON,2023-03-02,Activo
+D00021,Fernanda González Mendoza,Caja seca,San Luis Potosí,SLP,2025-10-01,Activo
+D00022,Daniel Hernández López,Camión 3.5T,Aguascalientes,AGS,2019-12-07,En descanso
+D00023,Juan Torres González,Camión 3.5T,Puebla,PUE,2025-09-19,Suspendido
+D00024,Miguel Martínez Hernández,Caja seca,Hermosillo,SON,2025-09-30,En descanso
+D00025,Miguel García Rojas,Camioneta,Guadalajara,JAL,2020-03-15,Activo
+D00026,Jorge Torres Hernández,Caja seca,Toluca,MEX,2018-06-27,En descanso
+D00027,Sofía Pérez Cruz,Camión 3.5T,Tijuana,BCN,2024-08-03,Activo
+D00028,Fernanda Cruz Pérez,Caja seca,Toluca,MEX,2024-07-02,En descanso
+D00029,Erika Martínez López,Caja seca,Mérida,YUC,2023-08-31,En descanso
+D00030,Sofía Torres Pérez,Refrigerado,Villahermosa,TAB,2020-06-07,Activo
+D00031,Gustavo Castillo Cruz,Camioneta,Querétaro,QRO,2020-05-26,Activo
+D00032,Fernanda Ortega Navarro,Camión 3.5T,Querétaro,QRO,2020-01-11,Activo
+D00033,Miguel Mendoza López,Van,Querétaro,QRO,2021-07-11,Activo
+D00034,Daniel Morales García,Camión 3.5T,Veracruz,VER,2025-11-26,Activo
+D00035,Héctor Reyes Torres,Camioneta,Chihuahua,CHH,2021-03-07,En descanso
+D00036,Iván Torres Navarro,Camión 3.5T,Mérida,YUC,2024-03-18,Activo
+D00037,Fernanda Pérez Hernández,Refrigerado,Tampico,TAM,2025-08-13,Activo
+D00038,Héctor Rojas Martínez,Camión 3.5T,Querétaro,QRO,2022-06-12,Activo
+D00039,María Martínez Cruz,Refrigerado,Culiacán,SIN,2019-02-21,Activo
+D00040,Juan Navarro Castillo,Tractocamión,Chihuahua,CHH,2019-05-18,En descanso
+D00041,Pedro Ortega Cruz,Van,Culiacán,SIN,2024-08-28,Activo
+D00042,Gustavo Flores González,Caja seca,Chihuahua,CHH,2023-06-08,Activo
+D00043,Raúl Ramírez González,Camión 3.5T,Toluca,MEX,2023-06-28,En descanso
+D00044,Luis Pérez Ortega,Camioneta,Monterrey,NL,2023-08-03,Activo
+D00045,Patricia López Martínez,Camioneta,San Luis Potosí,SLP,2024-12-22,Activo
+D00046,Sofía Torres Castillo,Van,Tampico,TAM,2023-03-24,Activo
+D00047,Arturo Hernández García,Refrigerado,Aguascalientes,AGS,2024-01-24,En descanso
+D00048,Héctor Vargas Ortega,Van,Querétaro,QRO,2022-04-21,Activo
+D00049,Daniel Pérez Castillo,Van,León,GTO,2024-03-30,Activo
+D00050,Miguel Silva Castillo,Camioneta,Chihuahua,CHH,2023-06-20,Activo
+D00051,Raúl Morales Pérez,Van,Culiacán,SIN,2023-04-09,Activo
+D00052,Karla Reyes Cruz,Caja seca,Tampico,TAM,2024-08-17,Activo
+D00053,Erika García González,Caja seca,Guadalajara,JAL,2018-04-26,Activo
+D00054,Ricardo Ortega López,Tractocamión,Culiacán,SIN,2018-04-21,Suspendido
+D00055,Carlos Ramírez Ramírez,Camión 3.5T,Hermosillo,SON,2021-12-09,Activo
+D00056,Jorge Torres López,Tractocamión,Monterrey,NL,2025-09-19,Activo
+D00057,Héctor Navarro Silva,Van,Aguascalientes,AGS,2018-06-03,Activo
+D00058,Raúl Silva Hernández,Refrigerado,CDMX,CDMX,2025-10-21,Activo
+D00059,Erika López Castillo,Camión 3.5T,Chihuahua,CHH,2021-08-13,Activo
+D00060,Gustavo Vargas Pérez,Camioneta,Aguascalientes,AGS,2023-07-28,Activo
+D00061,Raúl Martínez Morales,Camión 3.5T,Hermosillo,SON,2020-04-06,Activo
+D00062,Karla Ramírez Reyes,Caja seca,San Luis Potosí,SLP,2024-06-07,Activo
+D00063,Erika Vargas Flores,Camión 3.5T,Culiacán,SIN,2019-01-24,En descanso
+D00064,Sofía Cruz Martínez,Camioneta,Tampico,TAM,2022-10-16,Activo
+D00065,Arturo Vargas Sánchez,Tractocamión,San Luis Potosí,SLP,2022-11-09,Activo
+D00066,Arturo Pérez Hernández,Camioneta,Villahermosa,TAB,2023-01-31,Activo
+D00067,Raúl Sánchez Mendoza,Tractocamión,León,GTO,2024-06-20,Activo
+D00068,Carlos Rojas Sánchez,Tractocamión,Hermosillo,SON,2024-05-07,Activo
+D00069,Daniel Navarro Navarro,Tractocamión,Puebla,PUE,2025-09-08,En descanso
+D00070,Sofía Navarro Flores,Caja seca,Monterrey,NL,2025-02-09,Activo
+D00071,Patricia Ramírez Ortega,Camión 3.5T,Toluca,MEX,2025-09-14,Activo
+D00072,Daniel Mendoza Castillo,Van,CDMX,CDMX,2020-10-02,Activo
+D00073,María Flores González,Camión 3.5T,Guadalajara,JAL,2020-04-07,En descanso
+D00074,Arturo Pérez García,Refrigerado,Toluca,MEX,2025-05-21,Activo
+D00075,Jorge Vargas Reyes,Tractocamión,CDMX,CDMX,2018-08-15,Activo
+D00076,Jorge Ortega González,Camión 3.5T,Hermosillo,SON,2022-01-28,Activo
+D00077,Gustavo Silva Rojas,Tractocamión,Villahermosa,TAB,2019-05-10,En descanso
+D00078,Miguel Vargas Vargas,Caja seca,Mérida,YUC,2024-09-22,En descanso
+D00079,Sofía González López,Camión 3.5T,Mérida,YUC,2022-09-29,Suspendido
+D00080,Pedro Silva García,Van,Cancún,ROO,2022-07-31,Activo
+D00081,Arturo Navarro Castillo,Camioneta,Querétaro,QRO,2021-07-20,Suspendido
+D00082,Raúl Cruz Torres,Camión 3.5T,Puebla,PUE,2022-01-26,Suspendido
+D00083,Carlos Ramírez Flores,Van,Guadalajara,JAL,2025-06-05,Activo
+D00084,Miguel Morales Ramírez,Caja seca,Veracruz,VER,2025-09-07,Activo
+D00085,Daniel Martínez Ramírez,Tractocamión,Chihuahua,CHH,2020-11-12,En descanso
+D00086,Ricardo Navarro García,Tractocamión,León,GTO,2022-12-03,Activo
+D00087,Iván Vargas Navarro,Caja seca,Tampico,TAM,2023-04-14,En descanso
+D00088,Pedro Rojas Martínez,Tractocamión,León,GTO,2025-10-31,Activo
+D00089,Héctor Hernández García,Camioneta,Morelia,MICH,2021-08-31,Activo
+D00090,Ana Hernández Ortega,Camión 3.5T,Cancún,ROO,2025-03-10,Activo
+D00091,Miguel Pérez Ramírez,Van,Culiacán,SIN,2018-12-03,Suspendido
+D00092,Iván Vargas Mendoza,Van,Puebla,PUE,2024-08-30,En descanso
+D00093,Erika Vargas Torres,Camión 3.5T,Toluca,MEX,2019-12-12,Activo
+D00094,Karla Silva Ramírez,Camión 3.5T,León,GTO,2022-05-31,Activo
+D00095,Patricia Ramírez Martínez,Refrigerado,Morelia,MICH,2025-04-04,Activo
+D00096,Karla Reyes Navarro,Camioneta,León,GTO,2018-07-23,Activo
+D00097,Erika López Hernández,Camioneta,Veracruz,VER,2019-11-28,Activo
+D00098,Raúl López Ramírez,Camioneta,Cancún,ROO,2025-07-22,Activo
+D00099,Raúl Ortega González,Van,Toluca,MEX,2021-03-25,Activo
+D00100,Sofía Navarro Pérez,Tractocamión,Tijuana,BCN,2021-03-05,Activo
+D00101,Juan Reyes Mendoza,Refrigerado,San Luis Potosí,SLP,2020-12-08,Activo
+D00102,Luis Castillo González,Caja seca,Cancún,ROO,2018-12-18,Suspendido
+D00103,Sofía Ortega Navarro,Caja seca,Chihuahua,CHH,2025-09-14,Activo
+D00104,Carlos García Vargas,Refrigerado,Querétaro,QRO,2024-03-31,Activo
+D00105,Patricia García Hernández,Tractocamión,Veracruz,VER,2024-10-19,Activo
+D00106,Fernanda González Morales,Camión 3.5T,San Luis Potosí,SLP,2022-06-05,Activo
+D00107,Raúl Vargas Mendoza,Camión 3.5T,León,GTO,2023-08-26,Activo
+D00108,Ana Flores López,Tractocamión,Villahermosa,TAB,2022-11-09,Suspendido
+D00109,Fernanda Navarro Torres,Refrigerado,Tampico,TAM,2021-02-24,Activo
+D00110,Ricardo Navarro Pérez,Tractocamión,Toluca,MEX,2023-10-19,Suspendido
+D00111,Héctor García Sánchez,Camión 3.5T,Puebla,PUE,2024-03-26,Activo
+D00112,Pedro Pérez Mendoza,Van,Guadalajara,JAL,2023-04-11,Suspendido
+D00113,Héctor Cruz Morales,Van,Tampico,TAM,2018-06-17,Activo
+D00114,Fernanda Martínez Sánchez,Caja seca,Puebla,PUE,2019-05-22,Activo
+D00115,Pedro Silva Silva,Camión 3.5T,León,GTO,2023-09-15,Suspendido
+D00116,Erika Pérez Navarro,Refrigerado,CDMX,CDMX,2023-11-25,Activo
+D00117,Miguel Vargas Hernández,Tractocamión,Tampico,TAM,2025-08-04,Suspendido
+D00118,Fernanda Silva López,Caja seca,Querétaro,QRO,2022-06-03,Activo
+D00119,Raúl Mendoza Flores,Camioneta,Monterrey,NL,2023-03-01,Activo
+D00120,Patricia Mendoza Vargas,Refrigerado,Guadalajara,JAL,2025-05-11,Suspendido
+D00121,Sofía García Torres,Tractocamión,Culiacán,SIN,2019-06-14,Activo
+D00122,Patricia Ortega Martínez,Tractocamión,Monterrey,NL,2024-02-20,Activo
+D00123,Luis Sánchez Pérez,Tractocamión,Chihuahua,CHH,2019-01-01,Activo
+D00124,Daniel Castillo Navarro,Caja seca,Puebla,PUE,2019-05-09,Suspendido
+D00125,Miguel Cruz Rojas,Camión 3.5T,Puebla,PUE,2022-01-10,Activo
+D00126,Pedro Silva Reyes,Tractocamión,Chihuahua,CHH,2023-05-06,En descanso
+D00127,María Navarro Navarro,Camión 3.5T,Veracruz,VER,2024-11-19,Activo
+D00128,Juan González Castillo,Van,Cancún,ROO,2025-08-02,Activo
+D00129,Héctor Navarro Martínez,Refrigerado,Monterrey,NL,2021-04-05,Activo
+D00130,Daniel Ramírez Rojas,Tractocamión,Puebla,PUE,2019-06-08,Activo
+D00131,Carlos Rojas López,Van,Morelia,MICH,2018-11-10,Activo
+D00132,Erika Flores Cruz,Tractocamión,Cancún,ROO,2025-05-30,Activo
+D00133,Miguel Mendoza Pérez,Caja seca,Villahermosa,TAB,2018-03-08,En descanso
+D00134,Iván Torres Vargas,Camioneta,Guadalajara,JAL,2018-12-08,Activo
+D00135,Pedro Vargas Pérez,Camión 3.5T,Cancún,ROO,2024-12-30,Activo
+D00136,Miguel Navarro Morales,Camión 3.5T,Toluca,MEX,2025-07-21,Activo
+D00137,Raúl Mendoza Ortega,Caja seca,CDMX,CDMX,2019-12-05,Suspendido
+D00138,Patricia Reyes Cruz,Camioneta,Tampico,TAM,2021-05-25,Suspendido
+D00139,Jorge González González,Camión 3.5T,Chihuahua,CHH,2021-05-24,Activo
+D00140,Sofía Hernández Sánchez,Van,CDMX,CDMX,2025-10-21,Activo
+D00141,Arturo Sánchez Martínez,Tractocamión,Mérida,YUC,2022-11-20,Activo
+D00142,Luis López Pérez,Refrigerado,Tampico,TAM,2022-09-25,En descanso
+D00143,Raúl Hernández Mendoza,Camioneta,Cancún,ROO,2023-06-10,Activo
+D00144,Carlos Vargas Hernández,Camión 3.5T,Culiacán,SIN,2022-05-24,En descanso
+D00145,Raúl Silva Reyes,Caja seca,Hermosillo,SON,2022-08-30,Suspendido
+D00146,Karla Castillo Rojas,Camioneta,Guadalajara,JAL,2023-06-20,Activo
+D00147,Carlos Rojas Hernández,Tractocamión,Tampico,TAM,2020-08-07,Activo
+D00148,Iván Castillo López,Van,Monterrey,NL,2021-01-02,Suspendido
+D00149,Iván Hernández Pérez,Tractocamión,Veracruz,VER,2023-01-11,Activo
+D00150,Juan Rojas Ramírez,Camioneta,Veracruz,VER,2022-11-30,Activo
+D00151,Daniel Ortega Navarro,Caja seca,Cancún,ROO,2019-06-22,Activo
+D00152,María Reyes Sánchez,Tractocamión,Veracruz,VER,2023-04-19,En descanso
+D00153,María Sánchez Pérez,Camioneta,Tampico,TAM,2019-06-13,Activo
+D00154,Daniel Ramírez Sánchez,Van,Hermosillo,SON,2023-07-16,Suspendido
+D00155,Fernanda Pérez Pérez,Caja seca,Veracruz,VER,2020-12-04,En descanso
+D00156,Ricardo Navarro López,Camioneta,Guadalajara,JAL,2018-09-18,Activo
+D00157,Pedro Vargas Cruz,Caja seca,Mérida,YUC,2023-06-16,En descanso
+D00158,Ana Rojas Reyes,Camioneta,Morelia,MICH,2020-12-31,En descanso
+D00159,Miguel López Reyes,Camioneta,Cancún,ROO,2023-02-16,En descanso
+D00160,Carlos Rojas López,Camión 3.5T,Querétaro,QRO,2024-04-22,Activo
+D00161,María Torres Mendoza,Caja seca,Tijuana,BCN,2022-01-21,Activo
+D00162,Fernanda Vargas González,Camión 3.5T,Querétaro,QRO,2019-09-24,Activo
+D00163,Juan Castillo Vargas,Tractocamión,Hermosillo,SON,2018-01-27,Activo
+D00164,Iván Cruz Ramírez,Camión 3.5T,Toluca,MEX,2022-03-06,En descanso
+D00165,Ana Navarro Navarro,Refrigerado,Hermosillo,SON,2020-07-23,En descanso
+D00166,Fernanda Hernández Mendoza,Camión 3.5T,Villahermosa,TAB,2025-08-26,Activo
+D00167,Jorge Vargas Vargas,Tractocamión,Villahermosa,TAB,2018-10-13,En descanso
+D00168,Karla García González,Refrigerado,Hermosillo,SON,2018-09-09,Activo
+D00169,Iván Ortega Morales,Caja seca,Villahermosa,TAB,2021-04-26,En descanso
+D00170,Luis Flores Rojas,Camioneta,Aguascalientes,AGS,2021-11-10,Activo
+D00171,Sofía Morales Reyes,Caja seca,Chihuahua,CHH,2023-01-02,Activo
+D00172,Karla Sánchez Torres,Camión 3.5T,Veracruz,VER,2025-04-11,Activo
+D00173,Gustavo Morales Torres,Camión 3.5T,Chihuahua,CHH,2019-06-01,Activo
+D00174,Ricardo Pérez Hernández,Camión 3.5T,San Luis Potosí,SLP,2023-11-06,En descanso
+D00175,Juan Torres Navarro,Refrigerado,Culiacán,SIN,2020-11-25,Activo
+D00176,Pedro Rojas Cruz,Camión 3.5T,Guadalajara,JAL,2022-03-08,En descanso
+D00177,Daniel Silva Hernández,Van,Querétaro,QRO,2023-01-13,Suspendido
+D00178,Arturo Reyes Ramírez,Tractocamión,Culiacán,SIN,2024-05-05,Activo
+D00179,Ana Ortega Rojas,Caja seca,Culiacán,SIN,2025-07-17,Activo
+D00180,Sofía Cruz Mendoza,Camión 3.5T,Villahermosa,TAB,2024-07-13,En descanso
+D00181,Jorge García Navarro,Caja seca,Hermosillo,SON,2018-12-02,Activo
+D00182,Fernanda Rojas Ortega,Camioneta,Cancún,ROO,2018-11-16,Activo
+D00183,Erika Castillo Navarro,Refrigerado,Chihuahua,CHH,2020-12-16,Activo
+D00184,María González Rojas,Camión 3.5T,Tampico,TAM,2022-09-04,En descanso
+D00185,Gustavo Rojas López,Camioneta,Puebla,PUE,2025-11-25,Activo
+D00186,Arturo Cruz López,Camioneta,Guadalajara,JAL,2019-10-05,Activo
+D00187,Erika Torres García,Van,Querétaro,QRO,2022-02-22,Activo
+D00188,Daniel Torres Castillo,Camión 3.5T,San Luis Potosí,SLP,2022-03-14,Activo
+D00189,Carlos Torres Torres,Camión 3.5T,Culiacán,SIN,2022-09-24,En descanso
+D00190,Miguel Morales Cruz,Camión 3.5T,Tampico,TAM,2018-01-09,Activo
+D00191,Daniel Silva Mendoza,Refrigerado,Tampico,TAM,2024-06-05,En descanso
+D00192,Ana González Rojas,Camioneta,Tampico,TAM,2024-10-16,En descanso
+D00193,Ricardo Martínez Reyes,Camioneta,Cancún,ROO,2019-09-03,Activo
+D00194,Ricardo Morales García,Refrigerado,Mérida,YUC,2022-06-08,En descanso
+D00195,Jorge Pérez Hernández,Van,Toluca,MEX,2025-03-30,En descanso
+D00196,Miguel Morales Martínez,Camión 3.5T,San Luis Potosí,SLP,2024-04-17,Activo
+D00197,Erika Rojas Sánchez,Caja seca,Culiacán,SIN,2018-08-05,Activo
+D00198,Arturo Pérez Hernández,Tractocamión,CDMX,CDMX,2019-05-08,Activo
+D00199,Jorge Morales Reyes,Tractocamión,Culiacán,SIN,2022-12-25,Activo
+D00200,Ricardo Navarro Pérez,Tractocamión,Tampico,TAM,2018-04-06,En descanso
+D00201,Pedro Martínez López,Refrigerado,Aguascalientes,AGS,2022-04-14,Activo
+D00202,María Flores Martínez,Camión 3.5T,San Luis Potosí,SLP,2019-08-13,Suspendido
+D00203,Patricia Vargas Pérez,Camión 3.5T,León,GTO,2018-08-30,Activo
+D00204,Ricardo González Navarro,Caja seca,Chihuahua,CHH,2019-02-09,Activo
+D00205,Sofía Ramírez Reyes,Camioneta,Querétaro,QRO,2018-08-01,Activo
+D00206,Miguel Flores García,Tractocamión,Villahermosa,TAB,2022-04-27,Activo
+D00207,Luis Navarro Ramírez,Refrigerado,Monterrey,NL,2023-06-07,Activo
+D00208,Miguel Ramírez Morales,Camioneta,Morelia,MICH,2024-07-28,Activo
+D00209,Héctor Martínez Rojas,Camión 3.5T,Culiacán,SIN,2022-07-25,Suspendido
+D00210,María Ramírez Morales,Refrigerado,Veracruz,VER,2024-01-23,Suspendido
+D00211,Carlos Hernández Mendoza,Refrigerado,Morelia,MICH,2023-01-25,Activo
+D00212,Carlos Castillo Flores,Camioneta,León,GTO,2018-01-03,En descanso
+D00213,Sofía Silva Rojas,Tractocamión,Chihuahua,CHH,2021-12-10,Activo
+D00214,Jorge Torres Martínez,Tractocamión,Morelia,MICH,2024-04-25,Activo
+D00215,Pedro Navarro Sánchez,Camioneta,Puebla,PUE,2024-03-29,Suspendido
+D00216,Ricardo Flores Mendoza,Tractocamión,Aguascalientes,AGS,2025-08-25,Activo
+D00217,Sofía Mendoza Reyes,Tractocamión,Aguascalientes,AGS,2021-10-31,Suspendido
+D00218,Luis Reyes Castillo,Camión 3.5T,Puebla,PUE,2025-04-01,Activo
+D00219,Arturo Castillo Ortega,Van,León,GTO,2022-08-20,En descanso
+D00220,Luis Mendoza López,Tractocamión,Monterrey,NL,2024-01-16,En descanso
+D00221,María Hernández López,Van,Veracruz,VER,2022-05-04,Suspendido
+D00222,Juan Hernández Flores,Camioneta,Cancún,ROO,2018-02-08,En descanso
+D00223,Patricia Torres Ramírez,Camión 3.5T,Tijuana,BCN,2019-01-04,Activo
+D00224,Pedro Castillo Reyes,Camión 3.5T,Veracruz,VER,2018-05-31,Activo
+D00225,Pedro Silva Rojas,Van,Chihuahua,CHH,2019-03-31,Activo
+D00226,Patricia Silva Pérez,Camión 3.5T,Culiacán,SIN,2025-07-16,Activo
+D00227,Pedro Silva Ramírez,Caja seca,Monterrey,NL,2019-06-06,En descanso
+D00228,Luis Morales Reyes,Tractocamión,Toluca,MEX,2020-02-25,Activo
+D00229,Iván García Vargas,Van,Cancún,ROO,2018-01-09,Suspendido
+D00230,Gustavo Mendoza Castillo,Tractocamión,Toluca,MEX,2019-05-14,En descanso
+D00231,Pedro Navarro Morales,Van,Mérida,YUC,2018-07-12,Activo
+D00232,Jorge Silva Hernández,Refrigerado,Tijuana,BCN,2021-10-02,Activo
+D00233,Juan Sánchez Pérez,Tractocamión,Hermosillo,SON,2018-11-01,Activo
+D00234,Raúl Navarro Hernández,Camioneta,Querétaro,QRO,2018-04-25,Activo
+D00235,Juan López Castillo,Camión 3.5T,Aguascalientes,AGS,2020-10-22,Activo
+D00236,Gustavo Ramírez Martínez,Caja seca,Guadalajara,JAL,2021-09-28,Activo
+D00237,Héctor Silva López,Camión 3.5T,Querétaro,QRO,2025-01-05,Activo
+D00238,Ricardo Martínez González,Camión 3.5T,Guadalajara,JAL,2022-03-26,En descanso
+D00239,Patricia Navarro Martínez,Camión 3.5T,Guadalajara,JAL,2021-05-19,Activo
+D00240,Karla Ortega López,Camioneta,Guadalajara,JAL,2021-04-22,Activo
+D00241,Karla Mendoza Navarro,Caja seca,CDMX,CDMX,2023-02-01,Activo
+D00242,Luis Mendoza Rojas,Tractocamión,Aguascalientes,AGS,2025-04-20,Activo
+D00243,Patricia Martínez Silva,Caja seca,Querétaro,QRO,2018-02-20,Activo
+D00244,Gustavo Flores Cruz,Tractocamión,Culiacán,SIN,2019-06-01,En descanso
+D00245,Juan González García,Camión 3.5T,Cancún,ROO,2020-02-01,Activo
+D00246,Fernanda Torres Silva,Caja seca,Hermosillo,SON,2023-10-03,En descanso
+D00247,Daniel Reyes Vargas,Tractocamión,Puebla,PUE,2023-04-08,Suspendido
+D00248,Ana García Ramírez,Van,Villahermosa,TAB,2024-07-30,En descanso
+D00249,Fernanda Sánchez Sánchez,Camioneta,Guadalajara,JAL,2022-09-25,Activo
+D00250,Sofía Castillo Mendoza,Camioneta,Monterrey,NL,2021-10-30,Activo
